@@ -1,0 +1,91 @@
+{
+  "id": "conv_4eaf7b49",
+  "userId": "demo-user",
+  "title": "Neon Skyline Demo",
+  "summary": "古风歌",
+  "messages": [
+    {
+      "id": "msg_caf2d0a7",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_19035b8b",
+          "type": "text",
+          "text": "古风歌"
+        }
+      ],
+      "createdAt": "2026-03-09T17:20:46.203Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_09fde67e",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_be2bf0a1",
+          "type": "text",
+          "text": "我明白你的方向了，你可以直接让我写歌词，或者让我顺手一起出 music prompt。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:20:58.206Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_66450a3a",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_5e5caa8b",
+          "type": "text",
+          "text": "一起出了吧"
+        }
+      ],
+      "createdAt": "2026-03-09T17:21:19.605Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_432b7ede",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_b85d1edd",
+          "type": "text",
+          "text": "我明白你的方向了，你可以直接让我写歌词，或者让我顺手一起出 music prompt。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:21:31.612Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_ced05c95",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_0d499b38",
+          "type": "text",
+          "text": "那就一起出了啊"
+        }
+      ],
+      "createdAt": "2026-03-09T17:21:39.380Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_14ee7cb8",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_0459742b",
+          "type": "text",
+          "text": "我明白你的方向了，你可以直接让我写歌词，或者让我顺手一起出 music prompt。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:21:51.385Z",
+      "modelId": "gpt-5.4"
+    }
+  ],
+  "lyricVersions": [],
+  "promptVersions": [],
+  "generations": [],
+  "createdAt": "2026-03-09T17:20:36.998Z",
+  "updatedAt": "2026-03-09T17:21:51.385Z"
+}

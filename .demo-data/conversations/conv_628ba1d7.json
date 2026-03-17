@@ -1,0 +1,47 @@
+{
+  "id": "conv_628ba1d7",
+  "userId": "demo-user",
+  "title": "先记住我喜欢中文、女声、city pop，...",
+  "summary": "先记住我喜欢中文、女声、city pop，然后简单回复一句。",
+  "messages": [
+    {
+      "id": "msg_a7148103",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_7ca28ff6",
+          "type": "text",
+          "text": "先记住我喜欢中文、女声、city pop，然后简单回复一句。"
+        }
+      ],
+      "createdAt": "2026-03-10T01:09:46.523Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_f402c8db",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_1d77cee5",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Taste Memory"
+          ]
+        },
+        {
+          "id": "part_64120434",
+          "type": "text",
+          "text": "记住了：你偏好中文歌词、女声、city pop。"
+        }
+      ],
+      "createdAt": "2026-03-10T01:09:48.906Z",
+      "modelId": "gpt-5.4"
+    }
+  ],
+  "lyricVersions": [],
+  "promptVersions": [],
+  "generations": [],
+  "createdAt": "2026-03-10T01:09:46.089Z",
+  "updatedAt": "2026-03-10T01:09:48.906Z"
+}

@@ -1,0 +1,126 @@
+{
+  "id": "conv_5ace427b",
+  "userId": "demo-user",
+  "title": "Neon Skyline Demo",
+  "summary": "古风歌",
+  "messages": [
+    {
+      "id": "msg_5a27a1b1",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_a44aeae7",
+          "type": "text",
+          "text": "古风歌"
+        }
+      ],
+      "createdAt": "2026-03-09T17:57:20.022Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_0a7336ed",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_ae964d7a",
+          "type": "text",
+          "text": "方向我接住了。你可以直接让我沿着当前会话继续改歌词、改 prompt，或者直接生成一版。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:57:32.032Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_bd586e58",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_d508615f",
+          "type": "text",
+          "text": "一起出了吧"
+        }
+      ],
+      "createdAt": "2026-03-09T17:57:32.135Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_da2b0cad",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_06ec6868",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Lyrics Skill",
+            "Music Prompt Skill"
+          ]
+        },
+        {
+          "id": "part_e2f73f83",
+          "type": "text",
+          "text": "按你的要求，我先给你一版歌词和 music prompt，都放在下面了。"
+        },
+        {
+          "id": "part_c43cee8e",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "霓虹把夜色擦亮\n晚风吹乱你的发香\n街角传来旧唱片的回响\n心事在橱窗轻轻晃\n\n你说今晚别想太多\n就让脚步跟节奏游走\n城市天际线为我们闪烁\n这一刻别让温柔停泊\n\n一起出了吧\n把月光都装进眼眶\n沿着霓虹的方向\n把孤单慢慢遗忘\n\n一起出了吧\n让心跳跟拍子一样\n在这城市的中央\n把爱唱得滚烫\n\n车灯像流星划过\n你的笑倒映在窗后\n时间好像忽然变得温柔\n连沉默都带着节奏\n\n一起出了吧\n把月光都装进眼眶\n沿着霓虹的方向\n把孤单慢慢遗忘\n\n一起出了吧\n让心跳跟拍子一样\n在这城市的中央\n把爱唱得滚烫",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_6e532c36"
+        },
+        {
+          "id": "part_640d7feb",
+          "type": "prompt",
+          "title": "Neon Skyline Demo",
+          "content": "中文女声，浪漫都市感city pop，霓虹夜色氛围，轻快中速约108 BPM。复古合成器、放克贝斯、清亮电吉他、律动鼓机与少量萨克斯点缀。唱腔温柔灵动又带一点慵懒，副歌明亮上口。整体丝滑复古、闪烁夜行感，精致80s日式流行制作。",
+          "styleTags": [
+            "Genre leaning: city pop",
+            "Voice: Prefers female vocals",
+            "Mood: city pop"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_0509d728"
+        }
+      ],
+      "createdAt": "2026-03-09T17:57:47.604Z",
+      "modelId": "gpt-5.4"
+    }
+  ],
+  "lyricVersions": [
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "一起出了吧",
+      "content": "霓虹把夜色擦亮\n晚风吹乱你的发香\n街角传来旧唱片的回响\n心事在橱窗轻轻晃\n\n你说今晚别想太多\n就让脚步跟节奏游走\n城市天际线为我们闪烁\n这一刻别让温柔停泊\n\n一起出了吧\n把月光都装进眼眶\n沿着霓虹的方向\n把孤单慢慢遗忘\n\n一起出了吧\n让心跳跟拍子一样\n在这城市的中央\n把爱唱得滚烫\n\n车灯像流星划过\n你的笑倒映在窗后\n时间好像忽然变得温柔\n连沉默都带着节奏\n\n一起出了吧\n把月光都装进眼眶\n沿着霓虹的方向\n把孤单慢慢遗忘\n\n一起出了吧\n让心跳跟拍子一样\n在这城市的中央\n把爱唱得滚烫",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_6e532c36",
+      "createdAt": "2026-03-09T17:57:42.759Z"
+    }
+  ],
+  "promptVersions": [
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "一起出了吧",
+      "content": "中文女声，浪漫都市感city pop，霓虹夜色氛围，轻快中速约108 BPM。复古合成器、放克贝斯、清亮电吉他、律动鼓机与少量萨克斯点缀。唱腔温柔灵动又带一点慵懒，副歌明亮上口。整体丝滑复古、闪烁夜行感，精致80s日式流行制作。",
+      "styleTags": [
+        "Genre leaning: city pop",
+        "Voice: Prefers female vocals",
+        "Mood: city pop"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_0509d728",
+      "createdAt": "2026-03-09T17:57:47.602Z"
+    }
+  ],
+  "generations": [],
+  "createdAt": "2026-03-09T17:57:19.946Z",
+  "updatedAt": "2026-03-09T17:57:47.604Z"
+}

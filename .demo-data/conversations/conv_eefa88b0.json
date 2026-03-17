@@ -1,0 +1,105 @@
+{
+  "id": "conv_eefa88b0",
+  "userId": "demo-user",
+  "title": "Neon Skyline Demo",
+  "summary": "帮我做一首轻盈一点的中文女声 city pop，先给歌词和 music prompt。",
+  "messages": [
+    {
+      "id": "msg_c6c8b063",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_50376ba5",
+          "type": "text",
+          "text": "帮我做一首轻盈一点的中文女声 city pop，先给歌词和 music prompt。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:51:46.682Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_c615b31e",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_037df5a0",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Taste Memory",
+            "Lyrics Skill",
+            "Music Prompt Skill"
+          ]
+        },
+        {
+          "id": "part_a972caa3",
+          "type": "text",
+          "text": "按你的要求，我先给你一版歌词和 music prompt，都放在下面了。"
+        },
+        {
+          "id": "part_b9812bab",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "[Music Prompt]\nLight Chinese female vocal city pop, airy and elegant, 102 BPM, smooth groovy bass, clean funk guitar chops, warm analog synth pads, bright electric piano, subtle disco drums, glossy 80s urban night atmosphere, romantic and breezy, catchy hook, stylish neon city mood, soft yet confident female lead, dreamy backing vocals\n\n[歌词]\n霓虹刚亮在街角\n晚风吹乱了发梢\n你的消息轻轻跳\n落进我心里的频道\n\n玻璃倒映着微笑\n车灯像流星奔跑\n这一刻城市刚好\n适合把心事都唱到\n\n你说今晚别太早回去\n月色正好拥抱呼吸\n让高楼和人群都退去\n只剩下你眼里的谜\n\n穿过 neon skyline\n心跳和灯海同拍\n靠近一点别太快\n让暧昧慢慢盛开\n穿过 neon skyline\n晚风把名字轻摆\n这城市那么多未来\n我只想和你并排\n\n耳机循环这节拍\n脚步踩着云朵摆\n你在身边的存在\n让平凡街景都可爱\n\n天桥上灯影摇摆\n像电影慢慢展开\n如果今夜不说白\n就让眼神先说明白\n\n你说今晚别太早回去\n月色正好拥抱呼吸\n让高楼和人群都退去\n只剩下你眼里的谜\n\n穿过 neon skyline\n心跳和灯海同拍\n靠近一点别太快\n让暧昧慢慢盛开\n穿过 neon skyline\n晚风把名字轻摆\n这城市那么多未来\n我只想和你并排\n\n穿过 neon skyline\n把夜色披成裙摆\n你的温柔落下来\n像星光停在窗外\n穿过 neon skyline\n梦在街道口晕开\n如果明天人海茫茫\n今夜先别走开",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop",
+            "light"
+          ],
+          "versionId": "lyrics_9ee3131d"
+        },
+        {
+          "id": "part_3ba3c07c",
+          "type": "prompt",
+          "title": "Neon Skyline Demo",
+          "content": "Light airy Chinese female vocal city pop, 102 BPM, romantic breezy neon-night mood, groovy bass, clean funk guitar chops, bright electric piano, warm analog synth pads, subtle disco drums, dreamy backing vocals, glossy 80s urban production, soft yet confident lead, catchy hook",
+          "styleTags": [
+            "Genre leaning: city pop",
+            "Voice: Prefers female vocals",
+            "Mood: city pop",
+            "light"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_7c9a20a6"
+        }
+      ],
+      "createdAt": "2026-03-09T17:52:07.360Z",
+      "modelId": "gpt-5.4"
+    }
+  ],
+  "lyricVersions": [
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "帮我做一首轻盈一点的中文女声 city pop，先给歌词和 music prompt。",
+      "content": "[Music Prompt]\nLight Chinese female vocal city pop, airy and elegant, 102 BPM, smooth groovy bass, clean funk guitar chops, warm analog synth pads, bright electric piano, subtle disco drums, glossy 80s urban night atmosphere, romantic and breezy, catchy hook, stylish neon city mood, soft yet confident female lead, dreamy backing vocals\n\n[歌词]\n霓虹刚亮在街角\n晚风吹乱了发梢\n你的消息轻轻跳\n落进我心里的频道\n\n玻璃倒映着微笑\n车灯像流星奔跑\n这一刻城市刚好\n适合把心事都唱到\n\n你说今晚别太早回去\n月色正好拥抱呼吸\n让高楼和人群都退去\n只剩下你眼里的谜\n\n穿过 neon skyline\n心跳和灯海同拍\n靠近一点别太快\n让暧昧慢慢盛开\n穿过 neon skyline\n晚风把名字轻摆\n这城市那么多未来\n我只想和你并排\n\n耳机循环这节拍\n脚步踩着云朵摆\n你在身边的存在\n让平凡街景都可爱\n\n天桥上灯影摇摆\n像电影慢慢展开\n如果今夜不说白\n就让眼神先说明白\n\n你说今晚别太早回去\n月色正好拥抱呼吸\n让高楼和人群都退去\n只剩下你眼里的谜\n\n穿过 neon skyline\n心跳和灯海同拍\n靠近一点别太快\n让暧昧慢慢盛开\n穿过 neon skyline\n晚风把名字轻摆\n这城市那么多未来\n我只想和你并排\n\n穿过 neon skyline\n把夜色披成裙摆\n你的温柔落下来\n像星光停在窗外\n穿过 neon skyline\n梦在街道口晕开\n如果明天人海茫茫\n今夜先别走开",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop",
+        "light"
+      ],
+      "source": "mastra",
+      "id": "lyrics_9ee3131d",
+      "createdAt": "2026-03-09T17:52:02.498Z"
+    }
+  ],
+  "promptVersions": [
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "帮我做一首轻盈一点的中文女声 city pop，先给歌词和 music prompt。",
+      "content": "Light airy Chinese female vocal city pop, 102 BPM, romantic breezy neon-night mood, groovy bass, clean funk guitar chops, bright electric piano, warm analog synth pads, subtle disco drums, dreamy backing vocals, glossy 80s urban production, soft yet confident lead, catchy hook",
+      "styleTags": [
+        "Genre leaning: city pop",
+        "Voice: Prefers female vocals",
+        "Mood: city pop",
+        "light"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_7c9a20a6",
+      "createdAt": "2026-03-09T17:52:07.355Z"
+    }
+  ],
+  "generations": [],
+  "createdAt": "2026-03-09T17:51:37.971Z",
+  "updatedAt": "2026-03-09T17:52:07.360Z"
+}

@@ -1,0 +1,35 @@
+{
+  "userId": "demo-user",
+  "displayName": "TUNEE Demo User",
+  "memories": [
+    {
+      "id": "memory_cd023e42",
+      "category": "voice",
+      "summary": "Prefers female vocals",
+      "evidence": "帮我做一首轻盈一点的中文女声歌，先写歌词和 music prompt。",
+      "confidence": "medium",
+      "createdAt": "2026-03-09T17:18:18.441Z",
+      "updatedAt": "2026-03-10T01:10:16.317Z"
+    },
+    {
+      "id": "memory_fc0e8924",
+      "category": "language",
+      "summary": "Prefers Chinese lyrics",
+      "evidence": "帮我做一首轻盈一点的中文女声歌，先写歌词和 music prompt。",
+      "confidence": "medium",
+      "createdAt": "2026-03-09T17:18:18.439Z",
+      "updatedAt": "2026-03-10T01:10:16.316Z"
+    },
+    {
+      "id": "memory_f2192a78",
+      "category": "genre",
+      "summary": "Leans toward city pop",
+      "evidence": "先记住我喜欢中文、女声、city pop，然后简单回复一句。",
+      "confidence": "medium",
+      "createdAt": "2026-03-09T17:14:18.340Z",
+      "updatedAt": "2026-03-10T01:09:46.522Z"
+    }
+  ],
+  "createdAt": "2026-03-09T16:09:04Z",
+  "updatedAt": "2026-03-10T01:10:16.317Z"
+}

@@ -1,0 +1,279 @@
+{
+  "id": "conv_d384dbdd",
+  "userId": "demo-user",
+  "title": "Neon Skyline Demo",
+  "summary": "在不在",
+  "messages": [
+    {
+      "id": "msg_0213960e",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_c0164c30",
+          "type": "text",
+          "text": "在不在"
+        }
+      ],
+      "createdAt": "2026-03-09T17:30:16.322Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_9e682f94",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_9a8393a6",
+          "type": "text",
+          "text": "在呀，我在。\n\n想继续做《Neon Skyline Demo》吗？你现在偏想先弄哪一块：\n- 写几句中文歌词\n- 定个 city pop 的氛围和编曲方向\n- 想女声的人设/唱腔\n- 直接让我给你一版完整 demo 文案\n\n你回我一个感觉就行，比如“想要更夜一点、霓虹一点”。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:30:21.736Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_e1729640",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_fa43efb4",
+          "type": "text",
+          "text": "来个citypop挺好"
+        }
+      ],
+      "createdAt": "2026-03-09T17:30:35.271Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_7c40eea6",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_bc1e43c6",
+          "type": "text",
+          "text": "我明白你的方向了，你可以直接让我写歌词，或者让我顺手一起出 music prompt。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:30:47.274Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_cbc20ff9",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_dedb53f7",
+          "type": "text",
+          "text": "日语歌吧"
+        }
+      ],
+      "createdAt": "2026-03-09T17:30:48.995Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_3d5a410a",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_9f2ff2f3",
+          "type": "text",
+          "text": "我明白你的方向了，你可以直接让我写歌词，或者让我顺手一起出 music prompt。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:31:01.001Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_5686ef13",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_77fc9bad",
+          "type": "text",
+          "text": "那你写歌词吧"
+        }
+      ],
+      "createdAt": "2026-03-09T17:31:09.766Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_c9b4dfe9",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_472e6071",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Lyrics Skill",
+            "Music Prompt Skill"
+          ]
+        },
+        {
+          "id": "part_ab63c6aa",
+          "type": "text",
+          "text": "按你的要求，我先给你一版歌词和 music prompt，都放在下面了。"
+        },
+        {
+          "id": "part_6b75d58d",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "霓虹把晚风染成蓝\n你的侧脸映在车窗\n电台播着旧情歌\n城市慢慢开始发烫\n\n高跟鞋敲醒了街道\n心跳跟着贝斯摇晃\n你回头轻轻一笑\n像夜色偷偷发亮\n\n在 neon skyline 之下\n把心事都交给月光\n你靠近我的肩膀\n让寂寞失去方向\n\n在 neon skyline 之下\n我们随着节奏游荡\n今夜不用说谎\n爱像灯火一样滚烫\n\n便利店门口的汽水\n还留着夏天的清凉\n你说别急着回家\n让时间再慢一点吧\n\n天桥上风吹乱头发\n像电影最后一场\n你眼里的整座东京\n落进我温柔想象\n\n在 neon skyline 之下\n把心事都交给月光\n你靠近我的肩膀\n让寂寞失去方向\n\n在 neon skyline 之下\n我们随着节奏游荡\n今夜不用说谎\n爱像灯火一样滚烫\n\n如果黎明终究会来\n就把这一刻拉长\n在你的呼吸之间\n我想把夜晚珍藏\n\n在 neon skyline 之下\n把名字写进星光\n你轻轻唱 我轻轻和\n爱终于有了形状",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_ab653583"
+        },
+        {
+          "id": "part_9e8cc28e",
+          "type": "prompt",
+          "title": "Neon Skyline Demo",
+          "content": "Japanese city pop, female vocals, smooth and nostalgic yet glossy urban night mood, “Neon Skyline Demo”. Rewrite/adapt the provided Chinese lyrics into natural, singable Japanese lyrics while preserving the imagery and theme: neon-lit summer night, car window reflections, old radio love songs, high heels on the street, pulsing bass, convenience store soda, overpass wind, Tokyo skyline, moonlight, warm romance, wandering through the city together. Focus on memorable Japanese hooks around “Neon Skyline” and a dreamy chorus. Sound: 1980s-inspired city pop with modern polish, lush electric piano/Rhodes, clean funk guitar, warm synth pads, melodic bass groove, tight drums, subtle disco shimmer, airy backing vocals. Tempo medium, groovy, romantic, cinematic, catchy, feminine, elegant, urban, night-drive atmosphere.",
+          "styleTags": [
+            "Genre leaning: city pop",
+            "Voice: Prefers female vocals",
+            "Mood: city pop"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_4def30ac"
+        }
+      ],
+      "createdAt": "2026-03-09T17:31:36.558Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_afcb60b1",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_b40843c1",
+          "type": "text",
+          "text": "生成音乐吧"
+        }
+      ],
+      "createdAt": "2026-03-09T17:31:53.289Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_2c34ebcf",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_5e5d46cc",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Generate Music Skill"
+          ]
+        },
+        {
+          "id": "part_95cab93d",
+          "type": "text",
+          "text": "我已经提交生成了，结果会留在这段对话里。"
+        },
+        {
+          "id": "part_50824820",
+          "type": "audio",
+          "title": "Neon Skyline Demo · 候选 1",
+          "generationId": "gen_5047e7bb",
+          "status": "failed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "Your prompt is too long - please shorten it to continue.",
+          "audioUrl": null,
+          "coverImageUrl": null
+        },
+        {
+          "id": "part_119a627f",
+          "type": "audio",
+          "title": "Neon Skyline Demo · 候选 2",
+          "generationId": "gen_6b60cdce",
+          "status": "failed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "Your prompt is too long - please shorten it to continue.",
+          "audioUrl": null,
+          "coverImageUrl": null
+        }
+      ],
+      "createdAt": "2026-03-09T17:31:53.666Z",
+      "modelId": "gpt-5.4"
+    }
+  ],
+  "lyricVersions": [
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "那你写歌词吧",
+      "content": "霓虹把晚风染成蓝\n你的侧脸映在车窗\n电台播着旧情歌\n城市慢慢开始发烫\n\n高跟鞋敲醒了街道\n心跳跟着贝斯摇晃\n你回头轻轻一笑\n像夜色偷偷发亮\n\n在 neon skyline 之下\n把心事都交给月光\n你靠近我的肩膀\n让寂寞失去方向\n\n在 neon skyline 之下\n我们随着节奏游荡\n今夜不用说谎\n爱像灯火一样滚烫\n\n便利店门口的汽水\n还留着夏天的清凉\n你说别急着回家\n让时间再慢一点吧\n\n天桥上风吹乱头发\n像电影最后一场\n你眼里的整座东京\n落进我温柔想象\n\n在 neon skyline 之下\n把心事都交给月光\n你靠近我的肩膀\n让寂寞失去方向\n\n在 neon skyline 之下\n我们随着节奏游荡\n今夜不用说谎\n爱像灯火一样滚烫\n\n如果黎明终究会来\n就把这一刻拉长\n在你的呼吸之间\n我想把夜晚珍藏\n\n在 neon skyline 之下\n把名字写进星光\n你轻轻唱 我轻轻和\n爱终于有了形状",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_ab653583",
+      "createdAt": "2026-03-09T17:31:23.514Z"
+    }
+  ],
+  "promptVersions": [
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "那你写歌词吧",
+      "content": "Japanese city pop, female vocals, smooth and nostalgic yet glossy urban night mood, “Neon Skyline Demo”. Rewrite/adapt the provided Chinese lyrics into natural, singable Japanese lyrics while preserving the imagery and theme: neon-lit summer night, car window reflections, old radio love songs, high heels on the street, pulsing bass, convenience store soda, overpass wind, Tokyo skyline, moonlight, warm romance, wandering through the city together. Focus on memorable Japanese hooks around “Neon Skyline” and a dreamy chorus. Sound: 1980s-inspired city pop with modern polish, lush electric piano/Rhodes, clean funk guitar, warm synth pads, melodic bass groove, tight drums, subtle disco shimmer, airy backing vocals. Tempo medium, groovy, romantic, cinematic, catchy, feminine, elegant, urban, night-drive atmosphere.",
+      "styleTags": [
+        "Genre leaning: city pop",
+        "Voice: Prefers female vocals",
+        "Mood: city pop"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_4def30ac",
+      "createdAt": "2026-03-09T17:31:36.553Z"
+    }
+  ],
+  "generations": [
+    {
+      "title": "Neon Skyline Demo · 候选 1",
+      "promptVersionId": "prompt_4def30ac",
+      "lyricVersionId": "lyrics_ab653583",
+      "externalTaskIds": [
+        "827ee913-2f4e-20b7-3daa-e192d5844e9b_1"
+      ],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "failed",
+      "audioUrl": null,
+      "coverImageUrl": null,
+      "notes": "Your prompt is too long - please shorten it to continue.",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "Japanese city pop, female vocals, smooth and nostalgic yet glossy urban night mood, “Neon Skyline Demo”. Rewrite/adapt the provided Chinese lyrics into natural, singable Japanese lyrics while preserving the imagery and theme: neon-lit summer night, car window reflections, old radio love songs, high heels on the street, pulsing bass, convenience store soda, overpass wind, Tokyo skyline, moonlight, warm romance, wandering through the city together. Focus on memorable Japanese hooks around “Neon Skyline” and a dreamy chorus. Sound: 1980s-inspired city pop with modern polish, lush electric piano/Rhodes, clean funk guitar, warm synth pads, melodic bass groove, tight drums, subtle disco shimmer, airy backing vocals. Tempo medium, groovy, romantic, cinematic, catchy, feminine, elegant, urban, night-drive atmosphere.",
+        "lyrics": "霓虹把晚风染成蓝\n你的侧脸映在车窗\n电台播着旧情歌\n城市慢慢开始发烫\n\n高跟鞋敲醒了街道\n心跳跟着贝斯摇晃\n你回头轻轻一笑\n像夜色偷偷发亮\n\n在 neon skyline 之下\n把心事都交给月光\n你靠近我的肩膀\n让寂寞失去方向\n\n在 neon skyline 之下\n我们随着节奏游荡\n今夜不用说谎\n爱像灯火一样滚烫\n\n便利店门口的汽水\n还留着夏天的清凉\n你说别急着回家\n让时间再慢一点吧\n\n天桥上风吹乱头发\n像电影最后一场\n你眼里的整座东京\n落进我温柔想象\n\n在 neon skyline 之下\n把心事都交给月光\n你靠近我的肩膀\n让寂寞失去方向\n\n在 neon skyline 之下\n我们随着节奏游荡\n今夜不用说谎\n爱像灯火一样滚烫\n\n如果黎明终究会来\n就把这一刻拉长\n在你的呼吸之间\n我想把夜晚珍藏\n\n在 neon skyline 之下\n把名字写进星光\n你轻轻唱 我轻轻和\n爱终于有了形状"
+      },
+      "id": "gen_5047e7bb",
+      "createdAt": "2026-03-09T17:31:53.664Z"
+    },
+    {
+      "title": "Neon Skyline Demo · 候选 2",
+      "promptVersionId": "prompt_4def30ac",
+      "lyricVersionId": "lyrics_ab653583",
+      "externalTaskIds": [
+        "827ee913-2f4e-20b7-3daa-e192d5844e9b_2"
+      ],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "failed",
+      "audioUrl": null,
+      "coverImageUrl": null,
+      "notes": "Your prompt is too long - please shorten it to continue.",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "Japanese city pop, female vocals, smooth and nostalgic yet glossy urban night mood, “Neon Skyline Demo”. Rewrite/adapt the provided Chinese lyrics into natural, singable Japanese lyrics while preserving the imagery and theme: neon-lit summer night, car window reflections, old radio love songs, high heels on the street, pulsing bass, convenience store soda, overpass wind, Tokyo skyline, moonlight, warm romance, wandering through the city together. Focus on memorable Japanese hooks around “Neon Skyline” and a dreamy chorus. Sound: 1980s-inspired city pop with modern polish, lush electric piano/Rhodes, clean funk guitar, warm synth pads, melodic bass groove, tight drums, subtle disco shimmer, airy backing vocals. Tempo medium, groovy, romantic, cinematic, catchy, feminine, elegant, urban, night-drive atmosphere.",
+        "lyrics": "霓虹把晚风染成蓝\n你的侧脸映在车窗\n电台播着旧情歌\n城市慢慢开始发烫\n\n高跟鞋敲醒了街道\n心跳跟着贝斯摇晃\n你回头轻轻一笑\n像夜色偷偷发亮\n\n在 neon skyline 之下\n把心事都交给月光\n你靠近我的肩膀\n让寂寞失去方向\n\n在 neon skyline 之下\n我们随着节奏游荡\n今夜不用说谎\n爱像灯火一样滚烫\n\n便利店门口的汽水\n还留着夏天的清凉\n你说别急着回家\n让时间再慢一点吧\n\n天桥上风吹乱头发\n像电影最后一场\n你眼里的整座东京\n落进我温柔想象\n\n在 neon skyline 之下\n把心事都交给月光\n你靠近我的肩膀\n让寂寞失去方向\n\n在 neon skyline 之下\n我们随着节奏游荡\n今夜不用说谎\n爱像灯火一样滚烫\n\n如果黎明终究会来\n就把这一刻拉长\n在你的呼吸之间\n我想把夜晚珍藏\n\n在 neon skyline 之下\n把名字写进星光\n你轻轻唱 我轻轻和\n爱终于有了形状"
+      },
+      "id": "gen_6b60cdce",
+      "createdAt": "2026-03-09T17:31:53.664Z"
+    }
+  ],
+  "createdAt": "2026-03-09T17:30:12.416Z",
+  "updatedAt": "2026-03-09T17:32:20.236Z"
+}

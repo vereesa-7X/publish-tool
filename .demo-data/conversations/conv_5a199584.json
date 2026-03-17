@@ -1,0 +1,103 @@
+{
+  "id": "conv_5a199584",
+  "userId": "demo-user",
+  "title": "做一首轻盈一点的中文女声歌，先写歌词和 m...",
+  "summary": "帮我做一首轻盈一点的中文女声歌，先写歌词和 music prompt。",
+  "messages": [
+    {
+      "id": "msg_0ad2efd9",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_d79c7107",
+          "type": "text",
+          "text": "帮我做一首轻盈一点的中文女声歌，先写歌词和 music prompt。"
+        }
+      ],
+      "createdAt": "2026-03-10T01:10:16.317Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_6ad2bd30",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_1a3475cb",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Taste Memory",
+            "Lyrics Skill",
+            "Music Prompt Skill"
+          ]
+        },
+        {
+          "id": "part_4a36ccc5",
+          "type": "text",
+          "text": "我先顺着你偏好的方向做了一版：中文女声、轻盈一点、带点 city pop 的空气感。歌词我已经放进对话里了，music prompt 也一起整理好了；如果你愿意，下一步我可以继续帮你把它再收紧一点，比如更甜一点、更夏夜一点，或者把副歌做得更上口。"
+        },
+        {
+          "id": "part_cdcbbb82",
+          "type": "lyrics",
+          "title": "做一首轻盈一点的中文女声歌，先写歌词和 m...",
+          "content": "【主歌】\n夜风把霓虹吹成一条河，刚好流到你眼睛里面，\n车窗有一点雾，像没说完的话，停在副歌前一瞬间，\n城市不必太吵，鼓点也不用急着把心事都讲完，\n我想让这一段慢一点，好让喜欢有地方靠岸。\n\n【副歌】\n就留在这片柔软灯光里，别把清晨太快说穿，\n让贝斯轻轻托住呼吸，让合成器像海风打转，\n如果今晚要有一句最抓耳，就让它刚好落在你名字上，\n我想把这份心动唱得很近，又唱得很宽。",
+          "language": "Chinese",
+          "moodTags": [
+            "light",
+            "city pop"
+          ],
+          "versionId": "lyrics_ae6e672c"
+        },
+        {
+          "id": "part_b7b7c2a5",
+          "type": "prompt",
+          "title": "做一首轻盈一点的中文女声歌，先写歌词和 m...",
+          "content": "轻盈梦幻的中文女声 city pop，温柔亲近、清澈带空气感；中慢板约98 BPM，柔和鼓机、弹跳贝斯、电钢与闪烁合成器、少量吉他点缀。副歌抓耳顺滑，夜色霓虹感，制作通透细腻、混响温暖、微复古又现代。",
+          "styleTags": [
+            "city pop",
+            "light",
+            "female vocals"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_98459ae3"
+        }
+      ],
+      "createdAt": "2026-03-10T01:10:54.498Z",
+      "modelId": "gpt-5.4"
+    }
+  ],
+  "lyricVersions": [
+    {
+      "title": "做一首轻盈一点的中文女声歌，先写歌词和 m...",
+      "brief": "帮我做一首轻盈一点的中文女声歌，先写歌词和 music prompt。",
+      "content": "【主歌】\n夜风把霓虹吹成一条河，刚好流到你眼睛里面，\n车窗有一点雾，像没说完的话，停在副歌前一瞬间，\n城市不必太吵，鼓点也不用急着把心事都讲完，\n我想让这一段慢一点，好让喜欢有地方靠岸。\n\n【副歌】\n就留在这片柔软灯光里，别把清晨太快说穿，\n让贝斯轻轻托住呼吸，让合成器像海风打转，\n如果今晚要有一句最抓耳，就让它刚好落在你名字上，\n我想把这份心动唱得很近，又唱得很宽。",
+      "language": "Chinese",
+      "moodTags": [
+        "light",
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_ae6e672c",
+      "createdAt": "2026-03-10T01:10:36.323Z"
+    }
+  ],
+  "promptVersions": [
+    {
+      "title": "做一首轻盈一点的中文女声歌，先写歌词和 m...",
+      "brief": "帮我做一首轻盈一点的中文女声歌，先写歌词和 music prompt。",
+      "content": "轻盈梦幻的中文女声 city pop，温柔亲近、清澈带空气感；中慢板约98 BPM，柔和鼓机、弹跳贝斯、电钢与闪烁合成器、少量吉他点缀。副歌抓耳顺滑，夜色霓虹感，制作通透细腻、混响温暖、微复古又现代。",
+      "styleTags": [
+        "city pop",
+        "light",
+        "female vocals"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_98459ae3",
+      "createdAt": "2026-03-10T01:10:50.068Z"
+    }
+  ],
+  "generations": [],
+  "createdAt": "2026-03-10T01:10:16.198Z",
+  "updatedAt": "2026-03-10T01:10:54.498Z"
+}

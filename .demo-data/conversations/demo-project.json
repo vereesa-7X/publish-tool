@@ -1,0 +1,570 @@
+{
+  "id": "demo-project",
+  "userId": "demo-user",
+  "title": "Neon Skyline Demo",
+  "summary": "帮我做一首city pop的歌，旋律要抓耳一点，不要太俗套",
+  "messages": [
+    {
+      "id": "msg_a8933c74",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_367672ca",
+          "type": "text",
+          "text": "帮我做一首city pop的歌，旋律要抓耳一点，不要太俗套"
+        }
+      ],
+      "createdAt": "2026-03-09T17:14:18.341Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_184343c1",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_2d44de4a",
+          "type": "text",
+          "text": "可以，我们先把这首歌的“气质”和“抓耳点”定准：  \n你要的是 **city pop 的都市感、霓虹感、轻盈律动**，但旋律不能太老套，所以我建议做成：\n\n- **表面顺滑好听**\n- **细节有一点意外感**\n- **副歌一听就能记住**\n- **和声有都会感，不走土甜路线**\n\n我先直接给你一个可落地的歌曲雏形，你可以在这个基础上继续改。\n\n---\n\n## 方向设定\n\n### 风格关键词\n- city pop\n- 夜景 / 霓虹 / 海风 / 高楼 / 车窗倒影\n- 成熟一点的浪漫，不是直白口水歌\n- 抓耳但不俗：**旋律重复中带小跳进，和声用一点扩展音**\n\n### 推荐速度\n- **98–108 BPM**\n- 我建议先用 **102 BPM**\n\n### 调性建议\n- **A major** 或 **F# minor**\n- 如果想更“明亮高级”，选 **A major**\n- 如果想更“夜色迷离”，选 **F# minor**\n\n我先按 **A major / 102 BPM** 来设计。\n\n---\n\n# 一、歌曲结构建议\n\n**Intro – Verse – Pre – Chorus – Verse – Pre – Chorus – Bridge – Final Chorus – Outro**\n\n更具体一点：\n\n- **Intro** 4小节\n- **Verse 1** 8小节\n- **Pre-Chorus** 4小节\n- **Chorus** 8小节\n- **Verse 2** 8小节\n- **Pre-Chorus** 4小节\n- **Chorus** 8小节\n- **Bridge** 8小节\n- **Final Chorus** 8–12小节\n- **Outro** 4小节\n\n---\n\n# 二、和弦走向\n\n## 主歌 Verse\n给你一个很 city pop、但不会太烂大街的走法：\n\n**Amaj7 – C#m7 – F#m7 – Bm7 E7**  \n**Amaj7 – C#m7 – Dmaj7 – E7**\n\n这个好处是：\n- 一听就是都市流行的质感\n- 有流动感，不会太直白\n- 后面副歌很好接\n\n---\n\n## 预副歌 Pre-Chorus\n稍微拉情绪，制造“要飞起来”的感觉：\n\n**C#m7 – F#7 – Bm7 – E7**  \n**C#m7 – F#7 – Dmaj7 – E7**\n\n这里用一点二级属功能，会有那种“夜晚速度感”。\n\n---\n\n## 副歌 Chorus\n副歌要抓耳，但避免俗套，我建议别用太平铺直叙的 1-5-6-4。  \n试这个：\n\n**Amaj7 – E/G# – F#m7 – C#m7**  \n**Dmaj7 – E – C#m7 – F#7**  \n**Bm7 – E7 – Amaj7 – F#7**  \n**Bm7 – E7 – Amaj7**\n\n这个副歌的特点：\n- 前半段很顺，很好唱\n- 后半段有一点“拐弯”，不会太口水\n- 结尾回 Amaj7 很有开阔感\n\n---\n\n# 三、旋律设计思路\n\n你说“旋律要抓耳一点，不要太俗套”，关键不是音多，而是 **记忆点设计**。\n\n## 旋律原则\n1. **主歌少一点，副歌放开**\n2. **句尾不要总是落在最稳的音上**\n3. **副歌做一个可重复的核心动机**\n4. **加入一个小跳进（四度/六度）来提神**\n\n---\n\n## 一个适合副歌的旋律动机思路\n比如副歌第一句可以做成这种感觉：\n\n- 前半句：**平稳级进**\n- 后半句：**突然往上跳一个四度或六度**\n- 然后再顺下来\n\n这种会很像“本来很丝滑，突然被霓虹晃了一下”，很 city pop。\n\n举个简化的音高逻辑（不是唯一版本）：\n\n在 **Amaj7 – E/G# – F#m7 – C#m7** 上：\n\n- **mi - fa# - sol# - mi**\n- **do# - mi - fa# - la**\n- **sol# - fa# - mi - do#**\n- **re - mi - sol# —**\n\n你会发现它不是一味往上冲，而是有回摆，这样更耐听。\n\n---\n\n# 四、歌词主题建议\n\ncity pop 特别适合这种题材：\n\n### 方向 A：都市夜景里的暧昧\n不是“我好爱你”，而是：\n- 电车错过末班\n- 车窗倒映两个人\n- 海风吹乱衬衫\n- 霓虹像旧梦\n\n### 方向 B：成年人的回忆感\n- 不是热烈表白\n- 是“我知道这段关系不会停留，但今晚很美”\n\n### 方向 C：自由感 / 兜风感\n- 开车\n- 高架\n- 收音机\n- 夏夜\n- 港口灯火\n\n如果你想更经典 city pop，我建议做 **“夜色兜风 + 暧昧未说破”**。\n\n---\n\n# 五、先给你一版中文歌词草稿\n\n我写一版偏都会、画面感强一点的，避免太土。\n\n## 《霓虹失焦》\n\n### Verse 1\n风从高架桥尽头吹过来  \n你的侧脸落在车窗外  \n收音机里那句旧情歌  \n刚好唱到我们没说开的对白\n\n路灯一盏一盏向后退  \n像把今晚拉得有点坏  \n你把沉默留给指尖轻敲  \n像在等谁先坦白\n\n### Pre-Chorus\n海风穿过城市的缝隙  \n把心事吹得太具体  \n明明只是靠近一点  \n呼吸却乱了频率\n\n### Chorus\n霓虹失焦的夜里  \n你眼神比灯火还着迷  \n我假装只是陪你兜风而已  \n却绕不过心跳的轨迹\n\n霓虹失焦的夜里  \n倒影把距离拉成秘密  \n如果这一刻不必说明关系  \n就让晚风替我们回应\n\n---\n\n### Verse 2\n地图上的终点并不急  \n反正天亮前还有余地  \n你说喜欢城市醒着时  \n那种寂寞却自由的语气\n\n我把车速放慢了一点  \n让沉默也变得好听  \n像两颗各自偏航的星  \n刚好并肩同行\n\n### Pre-Chorus\n海面接住楼群的光影  \n像回忆故意不清晰  \n你靠近时一句玩笑  \n差点让我泄露真心\n\n### Chorus\n霓虹失焦的夜里  \n你眼神比灯火还着迷  \n我假装只是陪你兜风而已  \n却绕不过心跳的轨迹\n\n霓虹失焦的夜里  \n倒影把距离拉成秘密  \n如果这一刻不必说明关系  \n就让晚风替我们回应\n\n### Bridge\n也许明天各自回到  \n拥挤却熟悉的人群里  \n但这条沿海公路的夜色  \n会替我记得你\n\n### Final Chorus\n霓虹失焦的夜里  \n你眼神比灯火还着迷  \n我假装只是陪你兜风而已  \n却绕不过心跳的轨迹\n\n霓虹失焦的夜里  \n连沉默都像某种默契  \n如果故事最后没有标准结局  \n至少今晚足够美丽\n\n---\n\n# 六、编曲建议\n\n想做出 city pop 味道，编曲很关键。\n\n## 鼓\n- 紧一点的鼓组\n- 军鼓别太重，偏干净\n- hi-hat 做16分轻微律动\n- 可以加一点 disco/funk 感的 ghost note\n\n## 贝斯\n- **跳动感强的 electric bass**\n- 不要只根音，做一些经过音\n- 副歌稍微更“会走路”，歌曲立刻活起来\n\n## 和声乐器\n- **Rhodes / EP**\n- 干净的切分电吉他\n- 合成器 pad 铺底\n- 副歌加一点明亮 brass/synth brass 点缀\n\n## 吉他\n- 主歌：切分和弦，轻巧\n- 副歌：可以加 chorus 效果的清音电吉他\n- Outro：做几句带海风感的旋律线\n\n## 点睛元素\n- slap bass 可少量\n- 合成器 lead 不要太复古到“模仿秀”\n- 背景和声可以做“空气感女声/薄和声”\n\n---\n\n# 七、为了“不俗套”，我建议你避开这几个点\n\n1. **歌词别堆“想你爱你等你”**\n   - 多写画面，少喊情绪\n\n2. **副歌别一味高音硬顶**\n   - city pop 的高级感常来自“松弛的钩子”\n\n3. **和声别太口水**\n   - 多用 maj7、m7、9、13 这类色彩音\n\n4. **旋律别从头到尾太满**\n   - 留白很重要，主歌尤其要给律动空间\n\n---\n\n# 八、如果你想直接进入制作，我建议下一步这样做\n\n我可以继续帮你做以下任意一种：\n\n### 选项 1：直接写“更完整的旋律设计”\n我可以把这首歌的 **主歌 / 预副歌 / 副歌旋律** 用简谱或唱名给你写出来。\n\n### 选项 2：改歌词风格\n比如改成：\n- 更日系一点\n- 更成熟性感一点\n- 更夏夜海边一点\n- 更伤感回忆一点\n\n### 选项 3：给你一版 AI 作曲提示词\n如果你要拿去生成音乐，我可以直接给你一段高质量的 **music prompt**。\n\n---\n\n如果你愿意，我下一条可以直接给你：  \n**“这首《霓虹失焦》的副歌旋律简谱 + 一段可用于生成的 city pop 编曲提示词”**。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:15:24.846Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_1c3684e9",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_b4d4bded",
+          "type": "text",
+          "text": "咋写这么多啊，我只要 歌词 + music prompt"
+        }
+      ],
+      "createdAt": "2026-03-09T17:16:30.356Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_5b1ac8e0",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_9152ce2b",
+          "type": "text",
+          "text": "可以，直接给你简洁版。\n\n## 歌词《Neon Skyline》\n\n**主歌 1**  \n街灯把影子拉长到车窗  \n晚风把你的名字吹亮  \n收音机播着旧日的幻想  \n这座城今晚有一点发烫  \n\n**预副歌**  \n你靠近一点  \n霓虹就失焦一遍  \n心跳踩着鼓点  \n像夜色偷偷触电  \n\n**副歌**  \n在 neon skyline 下面盘旋  \n你的眼神像流动的唱片  \n我不说永远 只说今夜  \n让月光落进我们指尖  \n在 neon skyline 下面沉淀  \n人潮退去后只剩侧脸  \n这一秒太亮 不想收敛  \n让心事跟着贝斯绕圈  \n\n**主歌 2**  \n天桥把凌晨切成两半  \n高楼把寂寞藏进玻璃反光  \n你笑着说别把浪漫讲穿  \n我却想陪你走到天亮  \n\n**预副歌**  \n你靠近一点  \n整条街都变得柔软  \n呼吸擦过瞬间  \n像磁带轻轻倒转  \n\n**副歌**  \n在 neon skyline 下面盘旋  \n你的眼神像流动的唱片  \n我不说永远 只说今夜  \n让月光落进我们指尖  \n在 neon skyline 下面沉淀  \n人潮退去后只剩侧脸  \n这一秒太亮 不想收敛  \n让心事跟着贝斯绕圈  \n\n**桥段**  \n别问明天会不会改变  \n先把这一刻唱成纪念  \n如果城市终究熄灭  \n至少我们还闪着一点  \n\n**尾副歌**  \n在 neon skyline 下面盘旋  \n把未完成心愿都兑现  \n不必太热烈 不必太明显  \n只要你在我身边  \n\n---\n\n## Music Prompt\n\nCity pop, glossy urban night vibe, catchy but not cliché melody, smooth female vocal, mid-tempo 108 BPM, funky bassline, crisp drums, jazzy electric piano, clean chorus guitar, shimmering synth pads, subtle brass stabs, dreamy yet groovy, romantic neon atmosphere, sophisticated chords, memorable chorus hook, polished 80s Japanese city pop influence, modern production, airy, stylish, emotional but restrained\n\n如果你要，我下一条可以再给你一个 **更洗脑版** 或 **更高级冷感版**。"
+        },
+        {
+          "id": "part_499b605e",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "[歌词]\n霓虹落在车窗像一场电影\n你把晚风轻轻挂在我衣领\n街灯倒退 心跳慢慢靠近\n这一秒城市只剩下呼吸\n\n副歌\n霓虹天际线 闪烁你眼睛\n像夏夜秘密 藏不住心情\n跟着节奏走 别停在原地\n整座城都在为我们着迷\n\n主歌\n电台播着旧歌有一点复古\n你的微笑让这夜晚更清楚\n高楼之间漫游自由的温度\n把孤单调成最温柔的舞步\n\n副歌\n霓虹天际线 闪烁你眼睛\n像夏夜秘密 藏不住心情\n跟着节奏走 别停在原地\n整座城都在为我们着迷\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n\n副歌\n霓虹天际线 闪烁你眼睛\n像夏夜秘密 藏不住心情\n跟着节奏走 别停在原地\n整座城都在为我们着迷\n\n[music prompt]\nChinese city pop, neon night drive, smooth bass groove, retro synth pads, clean electric guitar, disco-inspired drums, romantic urban atmosphere, female vocal, catchy hook, warm analog texture, 108 BPM, dreamy and stylish",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_4c927ac3"
+        },
+        {
+          "id": "part_90383ba3",
+          "type": "prompt",
+          "title": "Neon Skyline Demo",
+          "content": "Chinese city pop, neon night drive, romantic urban atmosphere, dreamy and stylish. Female vocal, warm and intimate, catchy hook. Smooth bass groove, retro synth pads, clean electric guitar, glossy keys, subtle funk accents, disco-inspired drums. Warm analog texture, polished 80s-inspired production, summer night feeling, cinematic neon glow, modern yet nostalgic. 108 BPM. Structure: intro, verse, chorus, verse, chorus, bridge, final chorus, outro. Lyrics: 霓虹落在车窗像一场电影 / 你把晚风轻轻挂在我衣领 / 街灯倒退 心跳慢慢靠近 / 这一秒城市只剩下呼吸 / 霓虹天际线 闪烁你眼睛 / 像夏夜秘密 藏不住心情 / 跟着节奏走 别停在原地 / 整座城都在为我们着迷 / 电台播着旧歌有一点复古 / 你的微笑让这夜晚更清楚 / 高楼之间漫游自由的温度 / 把孤单调成最温柔的舞步 / 让时间慢一点 / 让月色近一点 / 当人海都安静 / 只听见你声音",
+          "styleTags": [
+            "Genre leaning: city pop",
+            "Mood: city pop"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_a66c9509"
+        }
+      ],
+      "createdAt": "2026-03-09T17:17:06.393Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_8ed4effb",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_ac8356b1",
+          "type": "text",
+          "text": "帮我写一首 city pop 的中文女声歌"
+        }
+      ],
+      "createdAt": "2026-03-09T17:18:18.442Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_34a25d69",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_d58d7494",
+          "type": "text",
+          "text": "可以，直接给你一版 **city pop / 中文 / 女声感** 的成品，顺手附上 **music prompt**。\n\n## 歌词《霓虹还没睡》\n\n**主歌 1**  \n天桥吹来的风有一点慵懒  \n把你的侧脸剪进玻璃反光  \n便利店门口那首旧情歌太短  \n还没唱完 夜已经变得滚烫  \n\n**主歌 2**  \n出租车掠过潮湿的路牌  \n像谁把心事调成暧昧色彩  \n你说别太认真 先跟着节拍  \n我却听见沉默 在低音里摊开  \n\n**预副歌**  \n城市刚醒来  \n灵魂却在夜里摇摆  \n你靠近的瞬间  \n像灯海轻轻晕开  \n\n**副歌**  \n霓虹还没睡 我也不想退  \n你的眼睛像八十年代的醉  \n在午夜边界 来回地迂回  \n心跳和合成器一起下坠  \n霓虹还没睡 爱没有排队  \n我们把孤单跳成一支舞会  \n别说错与对 别急着收尾  \n让这座城市替我们暧昧  \n\n**主歌 3**  \n高楼把月色切成几段章节  \n每个窗口都亮着不同错觉  \n我假装随意 把手伸进夜  \n却刚好碰见 你没说的热烈  \n\n**预副歌**  \n街灯慢下来  \n像在等谁把真心摊开  \n呼吸交错之间  \n连时间都被宠坏  \n\n**副歌**  \n霓虹还没睡 我也不想退  \n你的眼睛像八十年代的醉  \n在午夜边界 来回地迂回  \n心跳和合成器一起下坠  \n霓虹还没睡 爱没有排队  \n我们把孤单跳成一支舞会  \n别说错与对 别急着收尾  \n让这座城市替我们暧昧  \n\n**桥段**  \n如果天亮以后  \n人群会把我们冲散  \n至少这一晚  \n我真的为你勇敢  \n\n**最后副歌**  \n霓虹还没睡 梦也别作废  \n把所有欲言又止都灌进余味  \n当晨光包围 昨夜会褪色  \n但这一秒值得反复回味  \n霓虹还没睡 你也别后退  \n让副歌停在我们肩膀周围  \n不用给称谓 不必问结尾  \n先把心交给这城市点缀  \n\n---\n\n## Music Prompt\nChinese female vocal, city pop, 1980s urban neon vibe, catchy but not cheesy, sleek and sophisticated melody, groovy bassline, tight disco-pop drums, warm electric piano, shimmering synth pads, clean guitar chops, subtle sax accents, dreamy night-drive atmosphere, romantic and slightly bittersweet, polished modern production, memorable chorus, medium tempo, stylish, feminine, intimate yet glossy\n\n如果你要，我下一步可以直接给你：  \n1. **更洗脑一点的副歌版**  \n2. **更成熟冷艳一点的歌词版**  \n3. **直接拆成 Suno / 生成器更好用的 prompt 版**"
+        }
+      ],
+      "createdAt": "2026-03-09T17:18:46.618Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_3e21ccd9",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_7fd5417b",
+          "type": "text",
+          "text": "把刚才那版副歌改得更克制一点"
+        }
+      ],
+      "createdAt": "2026-03-09T17:20:53.838Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_fb38ef4a",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_b8cf2390",
+          "type": "text",
+          "text": "帮我写一首 city pop 的中文女声歌"
+        }
+      ],
+      "createdAt": "2026-03-09T17:20:53.920Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_f99d5bbc",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_f872bee5",
+          "type": "text",
+          "text": "我先写了一版歌词，放在下面。"
+        },
+        {
+          "id": "part_8c6a83f7",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "副歌\n\n霓虹天际线 映着你眼睛\n像夜色靠近 却不说心情\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_a4aa0bdd"
+        }
+      ],
+      "createdAt": "2026-03-09T17:20:58.443Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_6972f5ac",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_46d7aad6",
+          "type": "text",
+          "text": "我记住了：Leans toward city pop，Prefers Chinese lyrics，Prefers female vocals。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:21:05.925Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_116a8dfe",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_622e777b",
+          "type": "text",
+          "text": "帮我写一首 city pop 的中文女声歌"
+        }
+      ],
+      "createdAt": "2026-03-09T17:27:30.548Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_8784a00e",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_a519f5ea",
+          "type": "text",
+          "text": "把上一版副歌改得更克制一点，保留霓虹和夜风的意象"
+        }
+      ],
+      "createdAt": "2026-03-09T17:27:30.651Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_78082d2a",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_9a2e3b72",
+          "type": "text",
+          "text": "我先写了一版歌词，放在下面。"
+        },
+        {
+          "id": "part_45e74147",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "霓虹天际线 映着你眼睛\n晚风吹过来 轻轻没声音\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_48ba7044"
+        }
+      ],
+      "createdAt": "2026-03-09T17:27:33.678Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_5b915366",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_79658d74",
+          "type": "text",
+          "text": "按你的要求，我先给你一版歌词和 music prompt，都放在下面了。"
+        },
+        {
+          "id": "part_cad1db4b",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "主歌 1\n街灯把影子轻轻拉长\n晚风吹过你衬衫的香\n电台播着八十年代的幻想\n这座城今夜微微发烫\n\n主歌 2\n车窗倒映游走的月光\n高楼像梦一样慢慢摇晃\n你说别急着给故事收场\n先让心事跟节拍流浪\n\n预副歌\n你靠近一点\n霓虹就柔软一遍\n呼吸绕着鼓点\n像夜色轻轻触电\n\n副歌\n霓虹天际线 映着你眼睛\n像夜色靠近 却不说心情\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n主歌 3\n便利店门口微甜的光\n把沉默照得刚好不慌张\n我把今夜写成一小段篇章\n藏进你低头的目光\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n不必说永远\n不必太明显\n这一刻就足够\n让我为你盘旋\n\n副歌\n霓虹天际线 映着你眼睛\n像夜色靠近 却不说心情\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n尾声\n霓虹还没睡\n晚风也没停\n如果你愿意\n今夜就别清醒",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_eba4b69b"
+        },
+        {
+          "id": "part_55047db9",
+          "type": "prompt",
+          "title": "Neon Skyline Demo",
+          "content": "Chinese female vocal city pop, restrained and romantic neon night atmosphere, elegant urban late-night mood, modern yet nostalgic. Soft intimate female lead with controlled emotion, airy and warm, understated delivery rather than power belting. Smooth bass groove, disco-leaning but subtle drums, retro synth pads, glossy electric piano, clean chorus electric guitar, light funk accents, warm analog texture, polished 80s-inspired production, cinematic neon glow, gentle night-drive feeling. 108 BPM. Structure: intro, verse, verse, pre-chorus, chorus, verse, bridge, final chorus, outro. Lyrics in Chinese. Use these lyrics: 主歌 1：街灯把影子轻轻拉长 / 晚风吹过你衬衫的香 / 电台播着八十年代的幻想 / 这座城今夜微微发烫 / 主歌 2：车窗倒映游走的月光 / 高楼像梦一样慢慢摇晃 / 你说别急着给故事收场 / 先让心事跟节拍流浪 / 预副歌：你靠近一点 / 霓虹就柔软一遍 / 呼吸绕着鼓点 / 像夜色轻轻触电 / 副歌：霓虹天际线 映着你眼睛 / 像夜色靠近 却不说心情 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 主歌 3：便利店门口微甜的光 / 把沉默照得刚好不慌张 / 我把今夜写成一小段篇章 / 藏进你低头的目光 / 桥段：让时间慢一点 / 让月色近一点 / 当人海都安静 / 只听见你声音 / 不必说永远 / 不必太明显 / 这一刻就足够 / 让我为你盘旋 / 副歌：霓虹天际线 映着你眼睛 / 像夜色靠近 却不说心情 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 尾声：霓虹还没睡 / 晚风也没停 / 如果你愿意 / 今夜就别清醒",
+          "styleTags": [
+            "Genre leaning: city pop",
+            "Voice: Prefers female vocals",
+            "Mood: city pop"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_bc48cc34"
+        }
+      ],
+      "createdAt": "2026-03-09T17:27:52.458Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_08dacaef",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_19aea056",
+          "type": "text",
+          "text": "基于最新歌词和 prompt 生成一版"
+        }
+      ],
+      "createdAt": "2026-03-09T17:28:28.886Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_cb41844f",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_2334cbe4",
+          "type": "text",
+          "text": "我已经提交生成了，结果会留在这段对话里。"
+        },
+        {
+          "id": "part_c6f74b36",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "主歌 1\n街灯把影子轻轻拉长\n晚风吹过你衬衫的香\n电台播着八十年代的幻想\n这座城今夜微微发烫\n\n主歌 2\n车窗倒映游走的月光\n高楼像梦一样慢慢摇晃\n你说别急着给故事收场\n先让心事跟节拍流浪\n\n预副歌\n你靠近一点\n霓虹就柔软一遍\n呼吸绕着鼓点\n像夜色轻轻触电\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 却不说明\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n主歌 3\n便利店门口微甜的光\n把沉默照得刚好不慌张\n我把今夜写成一小段篇章\n藏进你低头的目光\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n不必说永远\n不必太明显\n这一刻就足够\n让我为你盘旋\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 却不说明\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n尾声\n霓虹还没睡\n晚风也没停\n如果你愿意\n今夜就别清醒",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_f0aec09a"
+        },
+        {
+          "id": "part_72e3eec0",
+          "type": "prompt",
+          "title": "Neon Skyline Demo",
+          "content": "Chinese female vocal city pop, restrained and romantic neon-night atmosphere, elegant late-night urban mood, modern yet nostalgic. Soft intimate female lead with controlled emotion, airy, warm, and understated delivery, no power belting. Smooth melodic bass groove, subtle disco-leaning drums, glossy electric piano, retro synth pads, clean chorus electric guitar, light funk accents, warm analog texture, polished 80s-inspired production, cinematic neon glow, gentle night-drive feeling. Keep the chorus more restrained and intimate, with neon and night-wind imagery. 108 BPM. Structure: intro, verse, verse, pre-chorus, chorus, verse, bridge, final chorus, outro. Lyrics in Chinese. Use these lyrics: 主歌 1：街灯把影子轻轻拉长 / 晚风吹过你衬衫的香 / 电台播着八十年代的幻想 / 这座城今夜微微发烫 / 主歌 2：车窗倒映游走的月光 / 高楼像梦一样慢慢摇晃 / 你说别急着给故事收场 / 先让心事跟节拍流浪 / 预副歌：你靠近一点 / 霓虹就柔软一遍 / 呼吸绕着鼓点 / 像夜色轻轻触电 / 副歌：霓虹天际线 映着你眼睛 / 像夜风掠过 却不说明 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 主歌 3：便利店门口微甜的光 / 把沉默照得刚好不慌张 / 我把今夜写成一小段篇章 / 藏进你低头的目光 / 桥段：让时间慢一点 / 让月色近一点 / 当人海都安静 / 只听见你声音 / 不必说永远 / 不必太明显 / 这一刻就足够 / 让我为你盘旋 / 副歌：霓虹天际线 映着你眼睛 / 像夜风掠过 却不说明 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 尾声：霓虹还没睡 / 晚风也没停 / 如果你愿意 / 今夜就别清醒",
+          "styleTags": [
+            "Genre leaning: city pop",
+            "Voice: Prefers female vocals",
+            "Mood: city pop"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_408b0f5b"
+        },
+        {
+          "id": "part_c8f5def6",
+          "type": "audio",
+          "title": "Neon Skyline Demo · 候选 1",
+          "generationId": "gen_b21c7c86",
+          "status": "failed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "Your prompt is too long - please shorten it to continue.",
+          "audioUrl": null,
+          "coverImageUrl": null
+        },
+        {
+          "id": "part_d4548da3",
+          "type": "audio",
+          "title": "Neon Skyline Demo · 候选 2",
+          "generationId": "gen_e34b2971",
+          "status": "failed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "Your prompt is too long - please shorten it to continue.",
+          "audioUrl": null,
+          "coverImageUrl": null
+        }
+      ],
+      "createdAt": "2026-03-09T17:28:57.920Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_427c9524",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_1bbe616b",
+          "type": "text",
+          "text": "帮我写一首 city pop 的中文女声歌"
+        }
+      ],
+      "createdAt": "2026-03-09T17:31:55.911Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_92f24474",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_f3a4d798",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Taste Memory",
+            "Lyrics Skill",
+            "Music Prompt Skill"
+          ]
+        },
+        {
+          "id": "part_9f5f3d7a",
+          "type": "text",
+          "text": "按你的要求，我先给你一版歌词和 music prompt，都放在下面了。"
+        },
+        {
+          "id": "part_6f4a2a2c",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "主歌 1\n街灯把影子轻轻拉长\n晚风吹过你衬衫的香\n电台播着八十年代的幻想\n这座城今夜微微发烫\n\n主歌 2\n车窗倒映游走的月光\n高楼像梦一样慢慢摇晃\n你说别急着给故事收场\n先让心事跟节拍流浪\n\n预副歌\n你靠近一点\n霓虹就柔软一遍\n呼吸绕着鼓点\n像夜色轻轻触电\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 没留下回音\n跟着节奏走 慢一点呼吸\n这座城很轻 只剩下我和你\n\n主歌 3\n便利店门口微甜的光\n把沉默照得刚好不慌张\n我把今夜写成一小段篇章\n藏进你低头的目光\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n不必说永远\n不必太明显\n这一刻就足够\n让我为你盘旋\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 没留下回音\n跟着节奏走 慢一点呼吸\n这座城很轻 只剩下我和你\n\n尾声\n霓虹还没睡\n晚风也没停\n如果你愿意\n今夜就别清醒",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_7c50dd47"
+        },
+        {
+          "id": "part_1fb15996",
+          "type": "prompt",
+          "title": "Neon Skyline Demo",
+          "content": "Chinese female vocal city pop, restrained and romantic neon-night atmosphere, elegant late-night urban mood, modern yet nostalgic. Soft intimate female lead with controlled emotion, airy, warm, understated delivery, no power belting. Smooth melodic bass groove, subtle disco-leaning drums, glossy electric piano, retro synth pads, clean chorus electric guitar, light funk accents, warm analog texture, polished 80s-inspired production, cinematic neon glow, gentle night-drive feeling. Keep the chorus restrained and intimate, preserving neon and night-wind imagery. 108 BPM. Structure: intro, verse, verse, pre-chorus, chorus, verse, bridge, final chorus, outro. Lyrics in Chinese. Use these lyrics exactly:\n\n主歌 1\n街灯把影子轻轻拉长\n晚风吹过你衬衫的香\n电台播着八十年代的幻想\n这座城今夜微微发烫\n\n主歌 2\n车窗倒映游走的月光\n高楼像梦一样慢慢摇晃\n你说别急着给故事收场\n先让心事跟节拍流浪\n\n预副歌\n你靠近一点\n霓虹就柔软一遍\n呼吸绕着鼓点\n像夜色轻轻触电\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 没留下回音\n跟着节奏走 慢一点呼吸\n这座城很轻 只剩下我和你\n\n主歌 3\n便利店门口微甜的光\n把沉默照得刚好不慌张\n我把今夜写成一小段篇章\n藏进你低头的目光\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n不必说永远\n不必太明显\n这一刻就足够\n让我为你盘旋\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 没留下回音\n跟着节奏走 慢一点呼吸\n这座城很轻 只剩下我和你\n\n尾声\n霓虹还没睡\n晚风也没停\n如果你愿意\n今夜就别清醒",
+          "styleTags": [
+            "Genre leaning: city pop",
+            "Voice: Prefers female vocals",
+            "Mood: city pop"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_f108089b"
+        }
+      ],
+      "createdAt": "2026-03-09T17:32:17.166Z",
+      "modelId": "gpt-5.4"
+    }
+  ],
+  "lyricVersions": [
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "咋写这么多啊，我只要 歌词 + music prompt",
+      "content": "[歌词]\n霓虹落在车窗像一场电影\n你把晚风轻轻挂在我衣领\n街灯倒退 心跳慢慢靠近\n这一秒城市只剩下呼吸\n\n副歌\n霓虹天际线 闪烁你眼睛\n像夏夜秘密 藏不住心情\n跟着节奏走 别停在原地\n整座城都在为我们着迷\n\n主歌\n电台播着旧歌有一点复古\n你的微笑让这夜晚更清楚\n高楼之间漫游自由的温度\n把孤单调成最温柔的舞步\n\n副歌\n霓虹天际线 闪烁你眼睛\n像夏夜秘密 藏不住心情\n跟着节奏走 别停在原地\n整座城都在为我们着迷\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n\n副歌\n霓虹天际线 闪烁你眼睛\n像夏夜秘密 藏不住心情\n跟着节奏走 别停在原地\n整座城都在为我们着迷\n\n[music prompt]\nChinese city pop, neon night drive, smooth bass groove, retro synth pads, clean electric guitar, disco-inspired drums, romantic urban atmosphere, female vocal, catchy hook, warm analog texture, 108 BPM, dreamy and stylish",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_4c927ac3",
+      "createdAt": "2026-03-09T17:16:42.494Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "把刚才那版副歌改得更克制一点",
+      "content": "副歌\n\n霓虹天际线 映着你眼睛\n像夜色靠近 却不说心情\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_a4aa0bdd",
+      "createdAt": "2026-03-09T17:20:58.439Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "把上一版副歌改得更克制一点，保留霓虹和夜风的意象",
+      "content": "霓虹天际线 映着你眼睛\n晚风吹过来 轻轻没声音\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_48ba7044",
+      "createdAt": "2026-03-09T17:27:33.675Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "帮我写一首 city pop 的中文女声歌",
+      "content": "主歌 1\n街灯把影子轻轻拉长\n晚风吹过你衬衫的香\n电台播着八十年代的幻想\n这座城今夜微微发烫\n\n主歌 2\n车窗倒映游走的月光\n高楼像梦一样慢慢摇晃\n你说别急着给故事收场\n先让心事跟节拍流浪\n\n预副歌\n你靠近一点\n霓虹就柔软一遍\n呼吸绕着鼓点\n像夜色轻轻触电\n\n副歌\n霓虹天际线 映着你眼睛\n像夜色靠近 却不说心情\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n主歌 3\n便利店门口微甜的光\n把沉默照得刚好不慌张\n我把今夜写成一小段篇章\n藏进你低头的目光\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n不必说永远\n不必太明显\n这一刻就足够\n让我为你盘旋\n\n副歌\n霓虹天际线 映着你眼睛\n像夜色靠近 却不说心情\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n尾声\n霓虹还没睡\n晚风也没停\n如果你愿意\n今夜就别清醒",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_eba4b69b",
+      "createdAt": "2026-03-09T17:27:41.481Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "基于最新歌词和 prompt 生成一版",
+      "content": "主歌 1\n街灯把影子轻轻拉长\n晚风吹过你衬衫的香\n电台播着八十年代的幻想\n这座城今夜微微发烫\n\n主歌 2\n车窗倒映游走的月光\n高楼像梦一样慢慢摇晃\n你说别急着给故事收场\n先让心事跟节拍流浪\n\n预副歌\n你靠近一点\n霓虹就柔软一遍\n呼吸绕着鼓点\n像夜色轻轻触电\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 却不说明\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n主歌 3\n便利店门口微甜的光\n把沉默照得刚好不慌张\n我把今夜写成一小段篇章\n藏进你低头的目光\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n不必说永远\n不必太明显\n这一刻就足够\n让我为你盘旋\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 却不说明\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n尾声\n霓虹还没睡\n晚风也没停\n如果你愿意\n今夜就别清醒",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_f0aec09a",
+      "createdAt": "2026-03-09T17:28:39.764Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "帮我写一首 city pop 的中文女声歌",
+      "content": "主歌 1\n街灯把影子轻轻拉长\n晚风吹过你衬衫的香\n电台播着八十年代的幻想\n这座城今夜微微发烫\n\n主歌 2\n车窗倒映游走的月光\n高楼像梦一样慢慢摇晃\n你说别急着给故事收场\n先让心事跟节拍流浪\n\n预副歌\n你靠近一点\n霓虹就柔软一遍\n呼吸绕着鼓点\n像夜色轻轻触电\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 没留下回音\n跟着节奏走 慢一点呼吸\n这座城很轻 只剩下我和你\n\n主歌 3\n便利店门口微甜的光\n把沉默照得刚好不慌张\n我把今夜写成一小段篇章\n藏进你低头的目光\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n不必说永远\n不必太明显\n这一刻就足够\n让我为你盘旋\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 没留下回音\n跟着节奏走 慢一点呼吸\n这座城很轻 只剩下我和你\n\n尾声\n霓虹还没睡\n晚风也没停\n如果你愿意\n今夜就别清醒",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_7c50dd47",
+      "createdAt": "2026-03-09T17:32:04.919Z"
+    }
+  ],
+  "promptVersions": [
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "咋写这么多啊，我只要 歌词 + music prompt",
+      "content": "Chinese city pop, neon night drive, romantic urban atmosphere, dreamy and stylish. Female vocal, warm and intimate, catchy hook. Smooth bass groove, retro synth pads, clean electric guitar, glossy keys, subtle funk accents, disco-inspired drums. Warm analog texture, polished 80s-inspired production, summer night feeling, cinematic neon glow, modern yet nostalgic. 108 BPM. Structure: intro, verse, chorus, verse, chorus, bridge, final chorus, outro. Lyrics: 霓虹落在车窗像一场电影 / 你把晚风轻轻挂在我衣领 / 街灯倒退 心跳慢慢靠近 / 这一秒城市只剩下呼吸 / 霓虹天际线 闪烁你眼睛 / 像夏夜秘密 藏不住心情 / 跟着节奏走 别停在原地 / 整座城都在为我们着迷 / 电台播着旧歌有一点复古 / 你的微笑让这夜晚更清楚 / 高楼之间漫游自由的温度 / 把孤单调成最温柔的舞步 / 让时间慢一点 / 让月色近一点 / 当人海都安静 / 只听见你声音",
+      "styleTags": [
+        "Genre leaning: city pop",
+        "Mood: city pop"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_a66c9509",
+      "createdAt": "2026-03-09T17:16:49.501Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "帮我写一首 city pop 的中文女声歌",
+      "content": "Chinese female vocal city pop, restrained and romantic neon night atmosphere, elegant urban late-night mood, modern yet nostalgic. Soft intimate female lead with controlled emotion, airy and warm, understated delivery rather than power belting. Smooth bass groove, disco-leaning but subtle drums, retro synth pads, glossy electric piano, clean chorus electric guitar, light funk accents, warm analog texture, polished 80s-inspired production, cinematic neon glow, gentle night-drive feeling. 108 BPM. Structure: intro, verse, verse, pre-chorus, chorus, verse, bridge, final chorus, outro. Lyrics in Chinese. Use these lyrics: 主歌 1：街灯把影子轻轻拉长 / 晚风吹过你衬衫的香 / 电台播着八十年代的幻想 / 这座城今夜微微发烫 / 主歌 2：车窗倒映游走的月光 / 高楼像梦一样慢慢摇晃 / 你说别急着给故事收场 / 先让心事跟节拍流浪 / 预副歌：你靠近一点 / 霓虹就柔软一遍 / 呼吸绕着鼓点 / 像夜色轻轻触电 / 副歌：霓虹天际线 映着你眼睛 / 像夜色靠近 却不说心情 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 主歌 3：便利店门口微甜的光 / 把沉默照得刚好不慌张 / 我把今夜写成一小段篇章 / 藏进你低头的目光 / 桥段：让时间慢一点 / 让月色近一点 / 当人海都安静 / 只听见你声音 / 不必说永远 / 不必太明显 / 这一刻就足够 / 让我为你盘旋 / 副歌：霓虹天际线 映着你眼睛 / 像夜色靠近 却不说心情 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 尾声：霓虹还没睡 / 晚风也没停 / 如果你愿意 / 今夜就别清醒",
+      "styleTags": [
+        "Genre leaning: city pop",
+        "Voice: Prefers female vocals",
+        "Mood: city pop"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_bc48cc34",
+      "createdAt": "2026-03-09T17:27:52.453Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "基于最新歌词和 prompt 生成一版",
+      "content": "Chinese female vocal city pop, restrained and romantic neon-night atmosphere, elegant late-night urban mood, modern yet nostalgic. Soft intimate female lead with controlled emotion, airy, warm, and understated delivery, no power belting. Smooth melodic bass groove, subtle disco-leaning drums, glossy electric piano, retro synth pads, clean chorus electric guitar, light funk accents, warm analog texture, polished 80s-inspired production, cinematic neon glow, gentle night-drive feeling. Keep the chorus more restrained and intimate, with neon and night-wind imagery. 108 BPM. Structure: intro, verse, verse, pre-chorus, chorus, verse, bridge, final chorus, outro. Lyrics in Chinese. Use these lyrics: 主歌 1：街灯把影子轻轻拉长 / 晚风吹过你衬衫的香 / 电台播着八十年代的幻想 / 这座城今夜微微发烫 / 主歌 2：车窗倒映游走的月光 / 高楼像梦一样慢慢摇晃 / 你说别急着给故事收场 / 先让心事跟节拍流浪 / 预副歌：你靠近一点 / 霓虹就柔软一遍 / 呼吸绕着鼓点 / 像夜色轻轻触电 / 副歌：霓虹天际线 映着你眼睛 / 像夜风掠过 却不说明 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 主歌 3：便利店门口微甜的光 / 把沉默照得刚好不慌张 / 我把今夜写成一小段篇章 / 藏进你低头的目光 / 桥段：让时间慢一点 / 让月色近一点 / 当人海都安静 / 只听见你声音 / 不必说永远 / 不必太明显 / 这一刻就足够 / 让我为你盘旋 / 副歌：霓虹天际线 映着你眼睛 / 像夜风掠过 却不说明 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 尾声：霓虹还没睡 / 晚风也没停 / 如果你愿意 / 今夜就别清醒",
+      "styleTags": [
+        "Genre leaning: city pop",
+        "Voice: Prefers female vocals",
+        "Mood: city pop"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_408b0f5b",
+      "createdAt": "2026-03-09T17:28:57.433Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "帮我写一首 city pop 的中文女声歌",
+      "content": "Chinese female vocal city pop, restrained and romantic neon-night atmosphere, elegant late-night urban mood, modern yet nostalgic. Soft intimate female lead with controlled emotion, airy, warm, understated delivery, no power belting. Smooth melodic bass groove, subtle disco-leaning drums, glossy electric piano, retro synth pads, clean chorus electric guitar, light funk accents, warm analog texture, polished 80s-inspired production, cinematic neon glow, gentle night-drive feeling. Keep the chorus restrained and intimate, preserving neon and night-wind imagery. 108 BPM. Structure: intro, verse, verse, pre-chorus, chorus, verse, bridge, final chorus, outro. Lyrics in Chinese. Use these lyrics exactly:\n\n主歌 1\n街灯把影子轻轻拉长\n晚风吹过你衬衫的香\n电台播着八十年代的幻想\n这座城今夜微微发烫\n\n主歌 2\n车窗倒映游走的月光\n高楼像梦一样慢慢摇晃\n你说别急着给故事收场\n先让心事跟节拍流浪\n\n预副歌\n你靠近一点\n霓虹就柔软一遍\n呼吸绕着鼓点\n像夜色轻轻触电\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 没留下回音\n跟着节奏走 慢一点呼吸\n这座城很轻 只剩下我和你\n\n主歌 3\n便利店门口微甜的光\n把沉默照得刚好不慌张\n我把今夜写成一小段篇章\n藏进你低头的目光\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n不必说永远\n不必太明显\n这一刻就足够\n让我为你盘旋\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 没留下回音\n跟着节奏走 慢一点呼吸\n这座城很轻 只剩下我和你\n\n尾声\n霓虹还没睡\n晚风也没停\n如果你愿意\n今夜就别清醒",
+      "styleTags": [
+        "Genre leaning: city pop",
+        "Voice: Prefers female vocals",
+        "Mood: city pop"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_f108089b",
+      "createdAt": "2026-03-09T17:32:17.161Z"
+    }
+  ],
+  "generations": [
+    {
+      "title": "Neon Skyline Demo · 候选 1",
+      "promptVersionId": "prompt_408b0f5b",
+      "lyricVersionId": "lyrics_f0aec09a",
+      "externalTaskIds": [
+        "1cd031c2-1a9c-4912-0fad-5d79ef7a0387_1"
+      ],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "failed",
+      "audioUrl": null,
+      "coverImageUrl": null,
+      "notes": "Your prompt is too long - please shorten it to continue.",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "Chinese female vocal city pop, restrained and romantic neon-night atmosphere, elegant late-night urban mood, modern yet nostalgic. Soft intimate female lead with controlled emotion, airy, warm, and understated delivery, no power belting. Smooth melodic bass groove, subtle disco-leaning drums, glossy electric piano, retro synth pads, clean chorus electric guitar, light funk accents, warm analog texture, polished 80s-inspired production, cinematic neon glow, gentle night-drive feeling. Keep the chorus more restrained and intimate, with neon and night-wind imagery. 108 BPM. Structure: intro, verse, verse, pre-chorus, chorus, verse, bridge, final chorus, outro. Lyrics in Chinese. Use these lyrics: 主歌 1：街灯把影子轻轻拉长 / 晚风吹过你衬衫的香 / 电台播着八十年代的幻想 / 这座城今夜微微发烫 / 主歌 2：车窗倒映游走的月光 / 高楼像梦一样慢慢摇晃 / 你说别急着给故事收场 / 先让心事跟节拍流浪 / 预副歌：你靠近一点 / 霓虹就柔软一遍 / 呼吸绕着鼓点 / 像夜色轻轻触电 / 副歌：霓虹天际线 映着你眼睛 / 像夜风掠过 却不说明 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 主歌 3：便利店门口微甜的光 / 把沉默照得刚好不慌张 / 我把今夜写成一小段篇章 / 藏进你低头的目光 / 桥段：让时间慢一点 / 让月色近一点 / 当人海都安静 / 只听见你声音 / 不必说永远 / 不必太明显 / 这一刻就足够 / 让我为你盘旋 / 副歌：霓虹天际线 映着你眼睛 / 像夜风掠过 却不说明 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 尾声：霓虹还没睡 / 晚风也没停 / 如果你愿意 / 今夜就别清醒",
+        "lyrics": "主歌 1\n街灯把影子轻轻拉长\n晚风吹过你衬衫的香\n电台播着八十年代的幻想\n这座城今夜微微发烫\n\n主歌 2\n车窗倒映游走的月光\n高楼像梦一样慢慢摇晃\n你说别急着给故事收场\n先让心事跟节拍流浪\n\n预副歌\n你靠近一点\n霓虹就柔软一遍\n呼吸绕着鼓点\n像夜色轻轻触电\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 却不说明\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n主歌 3\n便利店门口微甜的光\n把沉默照得刚好不慌张\n我把今夜写成一小段篇章\n藏进你低头的目光\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n不必说永远\n不必太明显\n这一刻就足够\n让我为你盘旋\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 却不说明\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n尾声\n霓虹还没睡\n晚风也没停\n如果你愿意\n今夜就别清醒"
+      },
+      "id": "gen_b21c7c86",
+      "createdAt": "2026-03-09T17:28:57.914Z"
+    },
+    {
+      "title": "Neon Skyline Demo · 候选 2",
+      "promptVersionId": "prompt_408b0f5b",
+      "lyricVersionId": "lyrics_f0aec09a",
+      "externalTaskIds": [
+        "1cd031c2-1a9c-4912-0fad-5d79ef7a0387_2"
+      ],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "failed",
+      "audioUrl": null,
+      "coverImageUrl": null,
+      "notes": "Your prompt is too long - please shorten it to continue.",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "Chinese female vocal city pop, restrained and romantic neon-night atmosphere, elegant late-night urban mood, modern yet nostalgic. Soft intimate female lead with controlled emotion, airy, warm, and understated delivery, no power belting. Smooth melodic bass groove, subtle disco-leaning drums, glossy electric piano, retro synth pads, clean chorus electric guitar, light funk accents, warm analog texture, polished 80s-inspired production, cinematic neon glow, gentle night-drive feeling. Keep the chorus more restrained and intimate, with neon and night-wind imagery. 108 BPM. Structure: intro, verse, verse, pre-chorus, chorus, verse, bridge, final chorus, outro. Lyrics in Chinese. Use these lyrics: 主歌 1：街灯把影子轻轻拉长 / 晚风吹过你衬衫的香 / 电台播着八十年代的幻想 / 这座城今夜微微发烫 / 主歌 2：车窗倒映游走的月光 / 高楼像梦一样慢慢摇晃 / 你说别急着给故事收场 / 先让心事跟节拍流浪 / 预副歌：你靠近一点 / 霓虹就柔软一遍 / 呼吸绕着鼓点 / 像夜色轻轻触电 / 副歌：霓虹天际线 映着你眼睛 / 像夜风掠过 却不说明 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 主歌 3：便利店门口微甜的光 / 把沉默照得刚好不慌张 / 我把今夜写成一小段篇章 / 藏进你低头的目光 / 桥段：让时间慢一点 / 让月色近一点 / 当人海都安静 / 只听见你声音 / 不必说永远 / 不必太明显 / 这一刻就足够 / 让我为你盘旋 / 副歌：霓虹天际线 映着你眼睛 / 像夜风掠过 却不说明 / 跟着节奏走 慢一点呼吸 / 这座城安静 只留下我和你 / 尾声：霓虹还没睡 / 晚风也没停 / 如果你愿意 / 今夜就别清醒",
+        "lyrics": "主歌 1\n街灯把影子轻轻拉长\n晚风吹过你衬衫的香\n电台播着八十年代的幻想\n这座城今夜微微发烫\n\n主歌 2\n车窗倒映游走的月光\n高楼像梦一样慢慢摇晃\n你说别急着给故事收场\n先让心事跟节拍流浪\n\n预副歌\n你靠近一点\n霓虹就柔软一遍\n呼吸绕着鼓点\n像夜色轻轻触电\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 却不说明\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n主歌 3\n便利店门口微甜的光\n把沉默照得刚好不慌张\n我把今夜写成一小段篇章\n藏进你低头的目光\n\n桥段\n让时间慢一点\n让月色近一点\n当人海都安静\n只听见你声音\n不必说永远\n不必太明显\n这一刻就足够\n让我为你盘旋\n\n副歌\n霓虹天际线 映着你眼睛\n像夜风掠过 却不说明\n跟着节奏走 慢一点呼吸\n这座城安静 只留下我和你\n\n尾声\n霓虹还没睡\n晚风也没停\n如果你愿意\n今夜就别清醒"
+      },
+      "id": "gen_e34b2971",
+      "createdAt": "2026-03-09T17:28:57.914Z"
+    }
+  ],
+  "createdAt": "2026-03-09T16:09:04Z",
+  "updatedAt": "2026-03-09T17:32:17.166Z"
+}

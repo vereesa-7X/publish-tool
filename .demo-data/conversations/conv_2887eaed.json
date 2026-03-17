@@ -1,0 +1,415 @@
+{
+  "id": "conv_2887eaed",
+  "userId": "demo-user",
+  "title": "Neon Skyline Demo",
+  "summary": "帮我做一首轻盈一点的中文女声 city pop，先给歌词和 music prompt。",
+  "messages": [
+    {
+      "id": "msg_e372379f",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_d04d1c39",
+          "type": "text",
+          "text": "帮我做一首轻盈一点的中文女声 city pop，先给歌词和 music prompt。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:53:54.488Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_f973e552",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_f56cc35b",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Taste Memory",
+            "Lyrics Skill",
+            "Music Prompt Skill"
+          ]
+        },
+        {
+          "id": "part_df325d4e",
+          "type": "text",
+          "text": "按你的要求，我先给你一版歌词和 music prompt，都放在下面了。"
+        },
+        {
+          "id": "part_aef46dce",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "霓虹刚刚亮起来\n晚风吹过站台\n你从街角走过来\n像一首旧磁带\n\n玻璃映着云和海\n心事摇摇摆摆\n咖啡还剩一口爱\n适合慢慢打开\n\n你靠近一点\n整个夜变得好看\n灯火绕着我们打转\n\n你像城市天际线\n闪烁在我双眼\n每次抬头看一遍\n心动就多一点\n\n你像城市天际线\n倒映在地铁边\n风把晚安吹成甜\n落在我肩边\n\n车流轻轻往前开\n世界有点慵懒\n我们交换小期待\n不必说得太满\n\n月色停在橱窗外\n像电影的旁白\n这一秒如果留下来\n刚好给爱安排\n\n你靠近一点\n整个夜变得好看\n灯火绕着我们打转\n\n你像城市天际线\n闪烁在我双眼\n每次抬头看一遍\n心动就多一点\n\n你像城市天际线\n倒映在地铁边\n风把晚安吹成甜\n落在我肩边\n\n你像城市天际线\n闪烁在我双眼\n人海绕了多少圈\n还是和你遇见\n\n你像城市天际线\n把夜色都晕染\n我把喜欢写成篇\n轻轻唱到明天",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop",
+            "light"
+          ],
+          "versionId": "lyrics_da08bc1a"
+        },
+        {
+          "id": "part_0e2d8694",
+          "type": "prompt",
+          "title": "Neon Skyline Demo",
+          "content": "轻盈浪漫中文女声 city pop，清澈柔和主唱，甜而不腻，夜晚都市感与微风感并存；复古合成器、干净电钢、律动贝斯、轻快鼓机、细腻吉他点缀。中速约102 BPM，顺滑梦幻，明亮通透，带80s city pop质感与现代精致混音。",
+          "styleTags": [
+            "Genre leaning: city pop",
+            "Voice: Prefers female vocals",
+            "Mood: city pop",
+            "light"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_f20a788d"
+        }
+      ],
+      "createdAt": "2026-03-09T17:54:12.294Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_af11dc40",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_21b3e46f",
+          "type": "text",
+          "text": "把上一版副歌改得更克制一点，保留霓虹和夜风的意象。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:54:21.260Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_9b8196ae",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_26b450ec",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Lyrics Skill"
+          ]
+        },
+        {
+          "id": "part_03daf0d4",
+          "type": "text",
+          "text": "我先写了一版歌词，放在下面。"
+        },
+        {
+          "id": "part_c5d00c06",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "你像城市天际线\n映在霓虹里面\n夜风轻轻绕一圈\n吹乱一句想念\n\n你像城市天际线\n安静落进视线\n我不说得太明显\n只看你一眼\n\n你像城市天际线\n微亮在这夜边\n晚风把心事收浅\n留一点余温\n\n你像城市天际线\n倒映车窗侧面\n霓虹慢慢走远\n我还站在里面",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_69f0ee04"
+        }
+      ],
+      "createdAt": "2026-03-09T17:54:26.279Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_01440279",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_08b04538",
+          "type": "text",
+          "text": "基于最新歌词和 prompt 生成一版。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:54:34.965Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_6eb1f86f",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_82843af2",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Lyrics Skill",
+            "Music Prompt Skill",
+            "Generate Music Skill"
+          ]
+        },
+        {
+          "id": "part_ecc411a9",
+          "type": "text",
+          "text": "我已经提交生成了，结果会留在这段对话里。"
+        },
+        {
+          "id": "part_11f3422e",
+          "type": "lyrics",
+          "title": "Neon Skyline Demo",
+          "content": "你像城市天际线\n映在霓虹里面\n夜风轻轻绕一圈\n吹乱一句想念\n\n你像城市天际线\n安静落进视线\n我不说得太明显\n只看你一眼\n\n街灯擦过玻璃面\n晚色落在指尖\n人群都各自向前\n我和夜并肩\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜\n\n你像城市天际线\n微亮在这夜边\n晚风把心事收浅\n留一点余温\n\n你像城市天际线\n倒映车窗侧面\n霓虹慢慢走远\n我还站在里面\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_903bcd4e"
+        },
+        {
+          "id": "part_59ac5aa8",
+          "type": "prompt",
+          "title": "Neon Skyline Demo",
+          "content": "轻盈克制的中文女声 city pop，清澈柔和、低饱和甜感，夜色霓虹与晚风氛围。复古合成器、干净电钢、律动贝斯、轻快鼓机、细腻电吉他点缀。中速102 BPM，顺滑梦幻、明亮通透，80s city pop质感配现代精致混音。",
+          "styleTags": [
+            "Genre leaning: city pop",
+            "Voice: Prefers female vocals",
+            "Mood: city pop"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_24864363"
+        },
+        {
+          "id": "part_290d9f46",
+          "type": "audio",
+          "title": "Neon Skyline Demo · 候选 1",
+          "generationId": "gen_14914823",
+          "status": "completed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "success",
+          "audioUrl": "https://cdn1.suno.ai/8489d259-c7e7-42f4-bc21-d318e1d3c622.mp3",
+          "coverImageUrl": "https://cdn2.suno.ai/image_8489d259-c7e7-42f4-bc21-d318e1d3c622.jpeg"
+        },
+        {
+          "id": "part_71489c8f",
+          "type": "audio",
+          "title": "Neon Skyline Demo · 候选 2",
+          "generationId": "gen_a4f7b718",
+          "status": "completed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "success",
+          "audioUrl": "https://cdn1.suno.ai/980add63-614f-4bd2-ab76-06ae16629b12.mp3",
+          "coverImageUrl": "https://cdn2.suno.ai/image_980add63-614f-4bd2-ab76-06ae16629b12.jpeg"
+        }
+      ],
+      "createdAt": "2026-03-09T17:54:44.626Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_324030fa",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_7fee8f30",
+          "type": "text",
+          "text": "基于最新歌词和 prompt 再生成一版。"
+        }
+      ],
+      "createdAt": "2026-03-09T17:56:19.892Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_4fb02c90",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_c37d402d",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Generate Music Skill"
+          ]
+        },
+        {
+          "id": "part_d0d13ce0",
+          "type": "text",
+          "text": "我已经提交生成了，结果会留在这段对话里。"
+        },
+        {
+          "id": "part_23758796",
+          "type": "audio",
+          "title": "Neon Skyline Demo · 候选 1",
+          "generationId": "gen_771b854f",
+          "status": "completed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "success",
+          "audioUrl": "https://cdn1.suno.ai/6610e531-fe0e-4212-89ca-1ee8646d2f49.mp3",
+          "coverImageUrl": "https://cdn2.suno.ai/image_6610e531-fe0e-4212-89ca-1ee8646d2f49.jpeg"
+        },
+        {
+          "id": "part_5be5853b",
+          "type": "audio",
+          "title": "Neon Skyline Demo · 候选 2",
+          "generationId": "gen_430b3ff6",
+          "status": "completed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "success",
+          "audioUrl": "https://cdn1.suno.ai/a3a76425-4e1c-4b6b-abec-3abd87ef2ad7.mp3",
+          "coverImageUrl": "https://cdn2.suno.ai/image_a3a76425-4e1c-4b6b-abec-3abd87ef2ad7.jpeg"
+        }
+      ],
+      "createdAt": "2026-03-09T17:56:20.205Z",
+      "modelId": "gpt-5.4"
+    }
+  ],
+  "lyricVersions": [
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "帮我做一首轻盈一点的中文女声 city pop，先给歌词和 music prompt。",
+      "content": "霓虹刚刚亮起来\n晚风吹过站台\n你从街角走过来\n像一首旧磁带\n\n玻璃映着云和海\n心事摇摇摆摆\n咖啡还剩一口爱\n适合慢慢打开\n\n你靠近一点\n整个夜变得好看\n灯火绕着我们打转\n\n你像城市天际线\n闪烁在我双眼\n每次抬头看一遍\n心动就多一点\n\n你像城市天际线\n倒映在地铁边\n风把晚安吹成甜\n落在我肩边\n\n车流轻轻往前开\n世界有点慵懒\n我们交换小期待\n不必说得太满\n\n月色停在橱窗外\n像电影的旁白\n这一秒如果留下来\n刚好给爱安排\n\n你靠近一点\n整个夜变得好看\n灯火绕着我们打转\n\n你像城市天际线\n闪烁在我双眼\n每次抬头看一遍\n心动就多一点\n\n你像城市天际线\n倒映在地铁边\n风把晚安吹成甜\n落在我肩边\n\n你像城市天际线\n闪烁在我双眼\n人海绕了多少圈\n还是和你遇见\n\n你像城市天际线\n把夜色都晕染\n我把喜欢写成篇\n轻轻唱到明天",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop",
+        "light"
+      ],
+      "source": "mastra",
+      "id": "lyrics_da08bc1a",
+      "createdAt": "2026-03-09T17:54:08.330Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "把上一版副歌改得更克制一点，保留霓虹和夜风的意象。",
+      "content": "你像城市天际线\n映在霓虹里面\n夜风轻轻绕一圈\n吹乱一句想念\n\n你像城市天际线\n安静落进视线\n我不说得太明显\n只看你一眼\n\n你像城市天际线\n微亮在这夜边\n晚风把心事收浅\n留一点余温\n\n你像城市天际线\n倒映车窗侧面\n霓虹慢慢走远\n我还站在里面",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_69f0ee04",
+      "createdAt": "2026-03-09T17:54:26.276Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "基于最新歌词和 prompt 生成一版。",
+      "content": "你像城市天际线\n映在霓虹里面\n夜风轻轻绕一圈\n吹乱一句想念\n\n你像城市天际线\n安静落进视线\n我不说得太明显\n只看你一眼\n\n街灯擦过玻璃面\n晚色落在指尖\n人群都各自向前\n我和夜并肩\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜\n\n你像城市天际线\n微亮在这夜边\n晚风把心事收浅\n留一点余温\n\n你像城市天际线\n倒映车窗侧面\n霓虹慢慢走远\n我还站在里面\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_903bcd4e",
+      "createdAt": "2026-03-09T17:54:40.833Z"
+    }
+  ],
+  "promptVersions": [
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "帮我做一首轻盈一点的中文女声 city pop，先给歌词和 music prompt。",
+      "content": "轻盈浪漫中文女声 city pop，清澈柔和主唱，甜而不腻，夜晚都市感与微风感并存；复古合成器、干净电钢、律动贝斯、轻快鼓机、细腻吉他点缀。中速约102 BPM，顺滑梦幻，明亮通透，带80s city pop质感与现代精致混音。",
+      "styleTags": [
+        "Genre leaning: city pop",
+        "Voice: Prefers female vocals",
+        "Mood: city pop",
+        "light"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_f20a788d",
+      "createdAt": "2026-03-09T17:54:12.292Z"
+    },
+    {
+      "title": "Neon Skyline Demo",
+      "brief": "基于最新歌词和 prompt 生成一版。",
+      "content": "轻盈克制的中文女声 city pop，清澈柔和、低饱和甜感，夜色霓虹与晚风氛围。复古合成器、干净电钢、律动贝斯、轻快鼓机、细腻电吉他点缀。中速102 BPM，顺滑梦幻、明亮通透，80s city pop质感配现代精致混音。",
+      "styleTags": [
+        "Genre leaning: city pop",
+        "Voice: Prefers female vocals",
+        "Mood: city pop"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_24864363",
+      "createdAt": "2026-03-09T17:54:44.253Z"
+    }
+  ],
+  "generations": [
+    {
+      "title": "Neon Skyline Demo · 候选 1",
+      "promptVersionId": "prompt_24864363",
+      "lyricVersionId": "lyrics_903bcd4e",
+      "externalTaskIds": [
+        "bf0f1568-1921-6073-3897-74bc19b64ce9_1"
+      ],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "completed",
+      "audioUrl": "https://cdn1.suno.ai/8489d259-c7e7-42f4-bc21-d318e1d3c622.mp3",
+      "coverImageUrl": "https://cdn2.suno.ai/image_8489d259-c7e7-42f4-bc21-d318e1d3c622.jpeg",
+      "notes": "success",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "city pop, Prefers female vocals, city pop, 轻盈克制的中文女声 city pop，清澈柔和、低饱和甜感，夜色霓虹与晚风氛围。复古合成器、干净电钢、律动贝斯、轻快鼓机、细腻电吉他点缀。中速102 BPM，顺滑梦幻、明亮通透，80s city pop质感配现代精致混音。",
+        "lyrics": "你像城市天际线\n映在霓虹里面\n夜风轻轻绕一圈\n吹乱一句想念\n\n你像城市天际线\n安静落进视线\n我不说得太明显\n只看你一眼\n\n街灯擦过玻璃面\n晚色落在指尖\n人群都各自向前\n我和夜并肩\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜\n\n你像城市天际线\n微亮在这夜边\n晚风把心事收浅\n留一点余温\n\n你像城市天际线\n倒映车窗侧面\n霓虹慢慢走远\n我还站在里面\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜"
+      },
+      "id": "gen_14914823",
+      "createdAt": "2026-03-09T17:54:44.622Z"
+    },
+    {
+      "title": "Neon Skyline Demo · 候选 1",
+      "promptVersionId": "prompt_24864363",
+      "lyricVersionId": "lyrics_903bcd4e",
+      "externalTaskIds": [
+        "d5a142f3-eda1-10b9-18a3-bf97618bf05f_1"
+      ],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "completed",
+      "audioUrl": "https://cdn1.suno.ai/6610e531-fe0e-4212-89ca-1ee8646d2f49.mp3",
+      "coverImageUrl": "https://cdn2.suno.ai/image_6610e531-fe0e-4212-89ca-1ee8646d2f49.jpeg",
+      "notes": "success",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "city pop, Prefers female vocals, city pop, 轻盈克制的中文女声 city pop，清澈柔和、低饱和甜感，夜色霓虹与晚风氛围。复古合成器、干净电钢、律动贝斯、轻快鼓机、细腻电吉他点缀。中速102 BPM，顺滑梦幻、明亮通透，80s city pop质感配现代精致混音。",
+        "lyrics": "你像城市天际线\n映在霓虹里面\n夜风轻轻绕一圈\n吹乱一句想念\n\n你像城市天际线\n安静落进视线\n我不说得太明显\n只看你一眼\n\n街灯擦过玻璃面\n晚色落在指尖\n人群都各自向前\n我和夜并肩\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜\n\n你像城市天际线\n微亮在这夜边\n晚风把心事收浅\n留一点余温\n\n你像城市天际线\n倒映车窗侧面\n霓虹慢慢走远\n我还站在里面\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜"
+      },
+      "id": "gen_771b854f",
+      "createdAt": "2026-03-09T17:56:20.201Z"
+    },
+    {
+      "title": "Neon Skyline Demo · 候选 2",
+      "promptVersionId": "prompt_24864363",
+      "lyricVersionId": "lyrics_903bcd4e",
+      "externalTaskIds": [
+        "bf0f1568-1921-6073-3897-74bc19b64ce9_2"
+      ],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "completed",
+      "audioUrl": "https://cdn1.suno.ai/980add63-614f-4bd2-ab76-06ae16629b12.mp3",
+      "coverImageUrl": "https://cdn2.suno.ai/image_980add63-614f-4bd2-ab76-06ae16629b12.jpeg",
+      "notes": "success",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "city pop, Prefers female vocals, city pop, 轻盈克制的中文女声 city pop，清澈柔和、低饱和甜感，夜色霓虹与晚风氛围。复古合成器、干净电钢、律动贝斯、轻快鼓机、细腻电吉他点缀。中速102 BPM，顺滑梦幻、明亮通透，80s city pop质感配现代精致混音。",
+        "lyrics": "你像城市天际线\n映在霓虹里面\n夜风轻轻绕一圈\n吹乱一句想念\n\n你像城市天际线\n安静落进视线\n我不说得太明显\n只看你一眼\n\n街灯擦过玻璃面\n晚色落在指尖\n人群都各自向前\n我和夜并肩\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜\n\n你像城市天际线\n微亮在这夜边\n晚风把心事收浅\n留一点余温\n\n你像城市天际线\n倒映车窗侧面\n霓虹慢慢走远\n我还站在里面\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜"
+      },
+      "id": "gen_a4f7b718",
+      "createdAt": "2026-03-09T17:54:44.622Z"
+    },
+    {
+      "title": "Neon Skyline Demo · 候选 2",
+      "promptVersionId": "prompt_24864363",
+      "lyricVersionId": "lyrics_903bcd4e",
+      "externalTaskIds": [
+        "d5a142f3-eda1-10b9-18a3-bf97618bf05f_2"
+      ],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "completed",
+      "audioUrl": "https://cdn1.suno.ai/a3a76425-4e1c-4b6b-abec-3abd87ef2ad7.mp3",
+      "coverImageUrl": "https://cdn2.suno.ai/image_a3a76425-4e1c-4b6b-abec-3abd87ef2ad7.jpeg",
+      "notes": "success",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "city pop, Prefers female vocals, city pop, 轻盈克制的中文女声 city pop，清澈柔和、低饱和甜感，夜色霓虹与晚风氛围。复古合成器、干净电钢、律动贝斯、轻快鼓机、细腻电吉他点缀。中速102 BPM，顺滑梦幻、明亮通透，80s city pop质感配现代精致混音。",
+        "lyrics": "你像城市天际线\n映在霓虹里面\n夜风轻轻绕一圈\n吹乱一句想念\n\n你像城市天际线\n安静落进视线\n我不说得太明显\n只看你一眼\n\n街灯擦过玻璃面\n晚色落在指尖\n人群都各自向前\n我和夜并肩\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜\n\n你像城市天际线\n微亮在这夜边\n晚风把心事收浅\n留一点余温\n\n你像城市天际线\n倒映车窗侧面\n霓虹慢慢走远\n我还站在里面\n\n霓虹轻轻明灭\n晚风掠过侧脸\n有些心事不必说完\n就留在这一夜"
+      },
+      "id": "gen_430b3ff6",
+      "createdAt": "2026-03-09T17:56:20.201Z"
+    }
+  ],
+  "createdAt": "2026-03-09T17:53:43.441Z",
+  "updatedAt": "2026-03-09T18:22:35.124Z"
+}

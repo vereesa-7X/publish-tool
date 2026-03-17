@@ -1,0 +1,251 @@
+{
+  "id": "conv_7474c059",
+  "userId": "demo-user",
+  "title": "写首歌",
+  "summary": "写首歌",
+  "messages": [
+    {
+      "id": "msg_8d999407",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_bb836788",
+          "type": "text",
+          "text": "写首歌"
+        }
+      ],
+      "createdAt": "2026-03-10T00:51:06.151Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_e4e7c29d",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_699b859b",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Lyrics Skill",
+            "Music Prompt Skill"
+          ]
+        },
+        {
+          "id": "part_0e903ff0",
+          "type": "text",
+          "text": "好，我先把这首《写首歌》的方向定得贴近你的口味：中文歌词、女声、带一点城市流行那种夜色和微风感。我已经先写出一版歌词，也整理了一版可直接生成的音乐 prompt，你可以先看看整体感觉；如果你想，我下一步也可以继续帮你把它收紧成更上口的副歌，或者改成更甜一点、更新复古一点的 city pop 版本。"
+        },
+        {
+          "id": "part_b68810ce",
+          "type": "lyrics",
+          "title": "写首歌",
+          "content": "霓虹把夜色调成粉蓝\n风吹过你衬衫留下答案\n街角唱片转着旧浪漫\n我和心跳一起慢慢旋转\n\n你靠近一点 灯光就变软\n玻璃窗倒映我们试探\n这一秒像电影最暖的片段\n连沉默都变得好看\n\n想和你兜风到天亮\n穿过整座城市的闪亮\n让晚风偷走一点伪装\n只剩你眼里的光\n\n想和你沉醉在路上\n听着老歌轻轻地摇晃\n如果爱是一种微醺的想象\n今夜就别醒来 别散场\n\n便利店门口热拿铁微烫\n你笑着说月色也会说谎\n可你的侧脸那么明亮\n让我愿意再相信一场\n\n红绿灯切换暧昧的节拍\n出租车飞过流动的海\n你的名字像副歌留在脑海\n一遍一遍停不下来\n\n想和你兜风到天亮\n穿过整座城市的闪亮\n让晚风偷走一点伪装\n只剩你眼里的光\n\n想和你沉醉在路上\n听着老歌轻轻地摇晃\n如果爱是一种微醺的想象\n今夜就别醒来 别散场\n\n霓虹慢慢退场\n天空泛起鱼肚白的光\n而你还在我身旁\n像这城市最温柔的收藏\n\n想和你兜风到天亮\n把心事都轻轻地安放\n当人海终于不再匆忙\n我只想和你这样\n\n想和你沉醉在路上\n把这一刻写成了乐章\n如果爱会在清晨悄悄发烫\n那就让我们继续唱",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_ba1b5b03"
+        },
+        {
+          "id": "part_1fd1e074",
+          "type": "prompt",
+          "title": "写首歌",
+          "content": "Chinese city pop with sweet female vocals, romantic neon-night mood, mid-tempo 108 BPM. Glossy synths, funky bass, crisp drums, electric piano, clean guitar, airy pads and subtle sax touches. Dreamy, warm, cinematic, slightly tipsy late-night drive feel, polished retro-modern production.",
+          "styleTags": [
+            "city pop",
+            "female vocals"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_2e14abc8"
+        }
+      ],
+      "createdAt": "2026-03-10T00:51:35.978Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_a74daa57",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_28c48f0a",
+          "type": "text",
+          "text": "基于最新歌词和 prompt 直接生成一版。"
+        }
+      ],
+      "createdAt": "2026-03-10T00:51:44.249Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_e1552a7b",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_bd3294bc",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Generate Music Skill"
+          ]
+        },
+        {
+          "id": "part_2ea7e086",
+          "type": "text",
+          "text": "好，我已经按你这版最新的歌词和 prompt 直接送去生成了，先保持中文女声、偏 city pop 的方向。结果一出来我会接着帮你听方向；如果首版接近但不够顺，我再陪你微调副歌咬字、律动或者复古感。"
+        },
+        {
+          "id": "part_a0eeb1ac",
+          "type": "audio",
+          "title": "写首歌 · 候选 1",
+          "generationId": "gen_c21c8c39",
+          "status": "completed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "success",
+          "audioUrl": "https://cdn1.suno.ai/d208006b-f182-4ded-b26f-d9540b5b77b8.mp3",
+          "coverImageUrl": "https://cdn2.suno.ai/image_d208006b-f182-4ded-b26f-d9540b5b77b8.jpeg"
+        },
+        {
+          "id": "part_886306af",
+          "type": "audio",
+          "title": "写首歌 · 候选 2",
+          "generationId": "gen_e620a78c",
+          "status": "completed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "success",
+          "audioUrl": "https://cdn1.suno.ai/a3b3c557-4c18-416d-a6fd-8ac1d2e57aa7.mp3",
+          "coverImageUrl": "https://cdn2.suno.ai/image_a3b3c557-4c18-416d-a6fd-8ac1d2e57aa7.jpeg"
+        }
+      ],
+      "createdAt": "2026-03-10T00:51:48.410Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_465ba3ef",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_93e7ecaa",
+          "type": "text",
+          "text": "你是谁"
+        }
+      ],
+      "createdAt": "2026-03-10T00:54:31.774Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_6a8ebc2d",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_62a87c88",
+          "type": "text",
+          "text": "我是 TUNEE，你的写歌搭子。主要陪你一起想歌的方向、润歌词、整理生成用的音乐描述，也能顺着你的口味继续把中文女声、city pop 这种气质往更准的方向推。你要是愿意，我们可以直接接着刚那首《写首歌》聊，看看是先改副歌，还是再做一版更有夜色感的版本。"
+        }
+      ],
+      "createdAt": "2026-03-10T00:54:36.065Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_b427fc41",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_37ce5d34",
+          "type": "text",
+          "text": "哈哈哈哈  你还有点儿意思"
+        }
+      ],
+      "createdAt": "2026-03-10T00:54:49.061Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_35799e00",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_5d96dbb9",
+          "type": "text",
+          "text": "那我就继续争取别让你失望。你这首其实已经有点方向了，中文女声加 city pop 很适合往“轻松但有夜色”的感觉走。你要是想，我下一步可以直接帮你把《写首歌》改得更抓耳一点，比如把副歌做得更容易记住，或者把整体再调得更复古一点。"
+        }
+      ],
+      "createdAt": "2026-03-10T00:54:53.695Z",
+      "modelId": "gpt-5.4"
+    }
+  ],
+  "lyricVersions": [
+    {
+      "title": "写首歌",
+      "brief": "写首歌",
+      "content": "霓虹把夜色调成粉蓝\n风吹过你衬衫留下答案\n街角唱片转着旧浪漫\n我和心跳一起慢慢旋转\n\n你靠近一点 灯光就变软\n玻璃窗倒映我们试探\n这一秒像电影最暖的片段\n连沉默都变得好看\n\n想和你兜风到天亮\n穿过整座城市的闪亮\n让晚风偷走一点伪装\n只剩你眼里的光\n\n想和你沉醉在路上\n听着老歌轻轻地摇晃\n如果爱是一种微醺的想象\n今夜就别醒来 别散场\n\n便利店门口热拿铁微烫\n你笑着说月色也会说谎\n可你的侧脸那么明亮\n让我愿意再相信一场\n\n红绿灯切换暧昧的节拍\n出租车飞过流动的海\n你的名字像副歌留在脑海\n一遍一遍停不下来\n\n想和你兜风到天亮\n穿过整座城市的闪亮\n让晚风偷走一点伪装\n只剩你眼里的光\n\n想和你沉醉在路上\n听着老歌轻轻地摇晃\n如果爱是一种微醺的想象\n今夜就别醒来 别散场\n\n霓虹慢慢退场\n天空泛起鱼肚白的光\n而你还在我身旁\n像这城市最温柔的收藏\n\n想和你兜风到天亮\n把心事都轻轻地安放\n当人海终于不再匆忙\n我只想和你这样\n\n想和你沉醉在路上\n把这一刻写成了乐章\n如果爱会在清晨悄悄发烫\n那就让我们继续唱",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_ba1b5b03",
+      "createdAt": "2026-03-10T00:51:21.646Z"
+    }
+  ],
+  "promptVersions": [
+    {
+      "title": "写首歌",
+      "brief": "写首歌",
+      "content": "Chinese city pop with sweet female vocals, romantic neon-night mood, mid-tempo 108 BPM. Glossy synths, funky bass, crisp drums, electric piano, clean guitar, airy pads and subtle sax touches. Dreamy, warm, cinematic, slightly tipsy late-night drive feel, polished retro-modern production.",
+      "styleTags": [
+        "city pop",
+        "female vocals"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_2e14abc8",
+      "createdAt": "2026-03-10T00:51:32.093Z"
+    }
+  ],
+  "generations": [
+    {
+      "title": "写首歌 · 候选 1",
+      "promptVersionId": "prompt_2e14abc8",
+      "lyricVersionId": "lyrics_ba1b5b03",
+      "externalTaskIds": [
+        "d9ac767c-e288-da47-7094-b3c5b99b8356_1"
+      ],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "completed",
+      "audioUrl": "https://cdn1.suno.ai/d208006b-f182-4ded-b26f-d9540b5b77b8.mp3",
+      "coverImageUrl": "https://cdn2.suno.ai/image_d208006b-f182-4ded-b26f-d9540b5b77b8.jpeg",
+      "notes": "success",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "city pop, female vocals, Chinese city pop with sweet female vocals, romantic neon-night mood, mid-tempo 108 BPM, Glossy synths, funky bass, crisp drums, electric piano, clean guitar, airy pads and subtle sax touches, Dreamy, warm, cinematic, slightly tipsy lat",
+        "lyrics": "霓虹把夜色调成粉蓝\n风吹过你衬衫留下答案\n街角唱片转着旧浪漫\n我和心跳一起慢慢旋转\n\n你靠近一点 灯光就变软\n玻璃窗倒映我们试探\n这一秒像电影最暖的片段\n连沉默都变得好看\n\n想和你兜风到天亮\n穿过整座城市的闪亮\n让晚风偷走一点伪装\n只剩你眼里的光\n\n想和你沉醉在路上\n听着老歌轻轻地摇晃\n如果爱是一种微醺的想象\n今夜就别醒来 别散场\n\n便利店门口热拿铁微烫\n你笑着说月色也会说谎\n可你的侧脸那么明亮\n让我愿意再相信一场\n\n红绿灯切换暧昧的节拍\n出租车飞过流动的海\n你的名字像副歌留在脑海\n一遍一遍停不下来\n\n想和你兜风到天亮\n穿过整座城市的闪亮\n让晚风偷走一点伪装\n只剩你眼里的光\n\n想和你沉醉在路上\n听着老歌轻轻地摇晃\n如果爱是一种微醺的想象\n今夜就别醒来 别散场\n\n霓虹慢慢退场\n天空泛起鱼肚白的光\n而你还在我身旁\n像这城市最温柔的收藏\n\n想和你兜风到天亮\n把心事都轻轻地安放\n当人海终于不再匆忙\n我只想和你这样\n\n想和你沉醉在路上\n把这一刻写成了乐章\n如果爱会在清晨悄悄发烫\n那就让我们继续唱"
+      },
+      "id": "gen_c21c8c39",
+      "createdAt": "2026-03-10T00:51:44.610Z"
+    },
+    {
+      "title": "写首歌 · 候选 2",
+      "promptVersionId": "prompt_2e14abc8",
+      "lyricVersionId": "lyrics_ba1b5b03",
+      "externalTaskIds": [
+        "d9ac767c-e288-da47-7094-b3c5b99b8356_2"
+      ],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "completed",
+      "audioUrl": "https://cdn1.suno.ai/a3b3c557-4c18-416d-a6fd-8ac1d2e57aa7.mp3",
+      "coverImageUrl": "https://cdn2.suno.ai/image_a3b3c557-4c18-416d-a6fd-8ac1d2e57aa7.jpeg",
+      "notes": "success",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "city pop, female vocals, Chinese city pop with sweet female vocals, romantic neon-night mood, mid-tempo 108 BPM, Glossy synths, funky bass, crisp drums, electric piano, clean guitar, airy pads and subtle sax touches, Dreamy, warm, cinematic, slightly tipsy lat",
+        "lyrics": "霓虹把夜色调成粉蓝\n风吹过你衬衫留下答案\n街角唱片转着旧浪漫\n我和心跳一起慢慢旋转\n\n你靠近一点 灯光就变软\n玻璃窗倒映我们试探\n这一秒像电影最暖的片段\n连沉默都变得好看\n\n想和你兜风到天亮\n穿过整座城市的闪亮\n让晚风偷走一点伪装\n只剩你眼里的光\n\n想和你沉醉在路上\n听着老歌轻轻地摇晃\n如果爱是一种微醺的想象\n今夜就别醒来 别散场\n\n便利店门口热拿铁微烫\n你笑着说月色也会说谎\n可你的侧脸那么明亮\n让我愿意再相信一场\n\n红绿灯切换暧昧的节拍\n出租车飞过流动的海\n你的名字像副歌留在脑海\n一遍一遍停不下来\n\n想和你兜风到天亮\n穿过整座城市的闪亮\n让晚风偷走一点伪装\n只剩你眼里的光\n\n想和你沉醉在路上\n听着老歌轻轻地摇晃\n如果爱是一种微醺的想象\n今夜就别醒来 别散场\n\n霓虹慢慢退场\n天空泛起鱼肚白的光\n而你还在我身旁\n像这城市最温柔的收藏\n\n想和你兜风到天亮\n把心事都轻轻地安放\n当人海终于不再匆忙\n我只想和你这样\n\n想和你沉醉在路上\n把这一刻写成了乐章\n如果爱会在清晨悄悄发烫\n那就让我们继续唱"
+      },
+      "id": "gen_e620a78c",
+      "createdAt": "2026-03-10T00:51:44.610Z"
+    }
+  ],
+  "createdAt": "2026-03-10T00:50:58.946Z",
+  "updatedAt": "2026-03-10T00:54:53.695Z"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "conv_1c21918d",
+  "userId": "demo-user",
+  "title": "基于最新歌词和 prompt 直接生成一版。",
+  "summary": "基于最新歌词和 prompt 直接生成一版。",
+  "messages": [
+    {
+      "id": "msg_21fd3a98",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_2c78cadf",
+          "type": "text",
+          "text": "基于最新歌词和 prompt 直接生成一版。"
+        }
+      ],
+      "createdAt": "2026-03-10T01:19:25.534Z",
+      "modelId": "demo/mock"
+    },
+    {
+      "id": "msg_d2e8a036",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_4762700f",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Lyrics Skill",
+            "Music Prompt Skill",
+            "Generate Music Skill"
+          ]
+        },
+        {
+          "id": "part_e8703738",
+          "type": "text",
+          "text": "我已经提交生成了，结果会留在这段对话里。"
+        },
+        {
+          "id": "part_8f991b17",
+          "type": "lyrics",
+          "title": "基于最新歌词和 prompt 直接生成一版。",
+          "content": "【主歌】\n夜风把霓虹吹成一条河，刚好流到你眼睛里面，\n车窗有一点雾，像没说完的话，停在副歌前一瞬间，\n城市不必太吵，鼓点也不用急着把心事都讲完，\n我想让这一段慢一点，好让喜欢有地方靠岸。\n\n【副歌】\n就留在这片柔软灯光里，别把清晨太快说穿，\n让贝斯轻轻托住呼吸，让合成器像海风打转，\n如果今晚要有一句最抓耳，就让它刚好落在你名字上，\n我想把这份心动唱得很近，又唱得很宽。",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_223289cd"
+        },
+        {
+          "id": "part_a5fcd1ff",
+          "type": "prompt",
+          "title": "基于最新歌词和 prompt 直接生成一版。",
+          "content": "Title: 基于最新歌词和 prompt 直接生成一版。\nCreate a polished demo with a short intro, a vivid chorus lift, and a vocal-forward topline.\nStyle: city pop.\nVoice: Prefers female vocals.\nArrangement: warm pads, defined bass, restrained drums, one memorable synth motif, no clutter.\nStructure: short intro, verse, pre, chorus, optional post-chorus, clean ending.\nMix goals: intimate vocal, clean low end, spacious but not noisy.\nLyrics anchor:\n【主歌】\n夜风把霓虹吹成一条河，刚好流到你眼睛里面，\n车窗有一点雾，像没说完的话，停在副歌前一瞬间，\n城市不必太吵，鼓点也不用急着把心事都讲完，\n我想让这一段慢一点，好让喜欢有地方靠岸。\n\n【副歌】\n就留在这片柔软灯光里，别把清晨太快说穿，\n让贝斯轻轻托住呼吸，让合成器像海风打转，\n如果今晚要有一句最抓耳，就让它刚好落在你名字上，\n我想把这份心动唱得很近，又唱得很宽。",
+          "styleTags": [
+            "city pop"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_f666df29"
+        },
+        {
+          "id": "part_57ff9177",
+          "type": "audio",
+          "title": "基于最新歌词和 prompt 直接生成一版。 · 候选 1",
+          "generationId": "gen_be31a323",
+          "status": "completed",
+          "provider": "mock-music-provider",
+          "providerMode": "mock",
+          "notes": "候选 1/2。演示模式下这次生成会返回两首候选版本。接入真实音乐 API 后，这里会变成真实的音频任务。",
+          "audioUrl": null,
+          "coverImageUrl": null
+        },
+        {
+          "id": "part_32c9558a",
+          "type": "audio",
+          "title": "基于最新歌词和 prompt 直接生成一版。 · 候选 2",
+          "generationId": "gen_19d4b5da",
+          "status": "completed",
+          "provider": "mock-music-provider",
+          "providerMode": "mock",
+          "notes": "候选 2/2。演示模式下这次生成会返回两首候选版本。接入真实音乐 API 后，这里会变成真实的音频任务。",
+          "audioUrl": null,
+          "coverImageUrl": null
+        }
+      ],
+      "createdAt": "2026-03-10T01:19:25.537Z",
+      "modelId": "demo/mock"
+    }
+  ],
+  "lyricVersions": [
+    {
+      "title": "基于最新歌词和 prompt 直接生成一版。",
+      "brief": "基于最新歌词和 prompt 直接生成一版。",
+      "content": "【主歌】\n夜风把霓虹吹成一条河，刚好流到你眼睛里面，\n车窗有一点雾，像没说完的话，停在副歌前一瞬间，\n城市不必太吵，鼓点也不用急着把心事都讲完，\n我想让这一段慢一点，好让喜欢有地方靠岸。\n\n【副歌】\n就留在这片柔软灯光里，别把清晨太快说穿，\n让贝斯轻轻托住呼吸，让合成器像海风打转，\n如果今晚要有一句最抓耳，就让它刚好落在你名字上，\n我想把这份心动唱得很近，又唱得很宽。",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mock",
+      "id": "lyrics_223289cd",
+      "createdAt": "2026-03-10T01:19:25.535Z"
+    }
+  ],
+  "promptVersions": [
+    {
+      "title": "基于最新歌词和 prompt 直接生成一版。",
+      "brief": "基于最新歌词和 prompt 直接生成一版。",
+      "content": "Title: 基于最新歌词和 prompt 直接生成一版。\nCreate a polished demo with a short intro, a vivid chorus lift, and a vocal-forward topline.\nStyle: city pop.\nVoice: Prefers female vocals.\nArrangement: warm pads, defined bass, restrained drums, one memorable synth motif, no clutter.\nStructure: short intro, verse, pre, chorus, optional post-chorus, clean ending.\nMix goals: intimate vocal, clean low end, spacious but not noisy.\nLyrics anchor:\n【主歌】\n夜风把霓虹吹成一条河，刚好流到你眼睛里面，\n车窗有一点雾，像没说完的话，停在副歌前一瞬间，\n城市不必太吵，鼓点也不用急着把心事都讲完，\n我想让这一段慢一点，好让喜欢有地方靠岸。\n\n【副歌】\n就留在这片柔软灯光里，别把清晨太快说穿，\n让贝斯轻轻托住呼吸，让合成器像海风打转，\n如果今晚要有一句最抓耳，就让它刚好落在你名字上，\n我想把这份心动唱得很近，又唱得很宽。",
+      "styleTags": [
+        "city pop"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mock",
+      "id": "prompt_f666df29",
+      "createdAt": "2026-03-10T01:19:25.535Z"
+    }
+  ],
+  "generations": [
+    {
+      "title": "基于最新歌词和 prompt 直接生成一版。 · 候选 1",
+      "promptVersionId": "prompt_f666df29",
+      "lyricVersionId": "lyrics_223289cd",
+      "externalTaskIds": [
+        "mock-1773105565536-1"
+      ],
+      "provider": "mock-music-provider",
+      "providerMode": "mock",
+      "status": "completed",
+      "audioUrl": null,
+      "coverImageUrl": null,
+      "notes": "候选 1/2。演示模式下这次生成会返回两首候选版本。接入真实音乐 API 后，这里会变成真实的音频任务。",
+      "requestSnapshot": {
+        "modelId": "demo/mock",
+        "prompt": "Title: 基于最新歌词和 prompt 直接生成一版。\nCreate a polished demo with a short intro, a vivid chorus lift, and a vocal-forward topline.\nStyle: city pop.\nVoice: Prefers female vocals.\nArrangement: warm pads, defined bass, restrained drums, one memorable synth motif, no clutter.\nStructure: short intro, verse, pre, chorus, optional post-chorus, clean ending.\nMix goals: intimate vocal, clean low end, spacious but not noisy.\nLyrics anchor:\n【主歌】\n夜风把霓虹吹成一条河，刚好流到你眼睛里面，\n车窗有一点雾，像没说完的话，停在副歌前一瞬间，\n城市不必太吵，鼓点也不用急着把心事都讲完，\n我想让这一段慢一点，好让喜欢有地方靠岸。\n\n【副歌】\n就留在这片柔软灯光里，别把清晨太快说穿，\n让贝斯轻轻托住呼吸，让合成器像海风打转，\n如果今晚要有一句最抓耳，就让它刚好落在你名字上，\n我想把这份心动唱得很近，又唱得很宽。",
+        "lyrics": "【主歌】\n夜风把霓虹吹成一条河，刚好流到你眼睛里面，\n车窗有一点雾，像没说完的话，停在副歌前一瞬间，\n城市不必太吵，鼓点也不用急着把心事都讲完，\n我想让这一段慢一点，好让喜欢有地方靠岸。\n\n【副歌】\n就留在这片柔软灯光里，别把清晨太快说穿，\n让贝斯轻轻托住呼吸，让合成器像海风打转，\n如果今晚要有一句最抓耳，就让它刚好落在你名字上，\n我想把这份心动唱得很近，又唱得很宽。"
+      },
+      "id": "gen_be31a323",
+      "createdAt": "2026-03-10T01:19:25.536Z"
+    },
+    {
+      "title": "基于最新歌词和 prompt 直接生成一版。 · 候选 2",
+      "promptVersionId": "prompt_f666df29",
+      "lyricVersionId": "lyrics_223289cd",
+      "externalTaskIds": [
+        "mock-1773105565536-2"
+      ],
+      "provider": "mock-music-provider",
+      "providerMode": "mock",
+      "status": "completed",
+      "audioUrl": null,
+      "coverImageUrl": null,
+      "notes": "候选 2/2。演示模式下这次生成会返回两首候选版本。接入真实音乐 API 后，这里会变成真实的音频任务。",
+      "requestSnapshot": {
+        "modelId": "demo/mock",
+        "prompt": "Title: 基于最新歌词和 prompt 直接生成一版。\nCreate a polished demo with a short intro, a vivid chorus lift, and a vocal-forward topline.\nStyle: city pop.\nVoice: Prefers female vocals.\nArrangement: warm pads, defined bass, restrained drums, one memorable synth motif, no clutter.\nStructure: short intro, verse, pre, chorus, optional post-chorus, clean ending.\nMix goals: intimate vocal, clean low end, spacious but not noisy.\nLyrics anchor:\n【主歌】\n夜风把霓虹吹成一条河，刚好流到你眼睛里面，\n车窗有一点雾，像没说完的话，停在副歌前一瞬间，\n城市不必太吵，鼓点也不用急着把心事都讲完，\n我想让这一段慢一点，好让喜欢有地方靠岸。\n\n【副歌】\n就留在这片柔软灯光里，别把清晨太快说穿，\n让贝斯轻轻托住呼吸，让合成器像海风打转，\n如果今晚要有一句最抓耳，就让它刚好落在你名字上，\n我想把这份心动唱得很近，又唱得很宽。",
+        "lyrics": "【主歌】\n夜风把霓虹吹成一条河，刚好流到你眼睛里面，\n车窗有一点雾，像没说完的话，停在副歌前一瞬间，\n城市不必太吵，鼓点也不用急着把心事都讲完，\n我想让这一段慢一点，好让喜欢有地方靠岸。\n\n【副歌】\n就留在这片柔软灯光里，别把清晨太快说穿，\n让贝斯轻轻托住呼吸，让合成器像海风打转，\n如果今晚要有一句最抓耳，就让它刚好落在你名字上，\n我想把这份心动唱得很近，又唱得很宽。"
+      },
+      "id": "gen_19d4b5da",
+      "createdAt": "2026-03-10T01:19:25.536Z"
+    }
+  ],
+  "createdAt": "2026-03-10T01:19:25.514Z",
+  "updatedAt": "2026-03-10T01:19:25.537Z"
+}

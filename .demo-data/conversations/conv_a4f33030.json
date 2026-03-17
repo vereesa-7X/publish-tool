@@ -1,0 +1,190 @@
+{
+  "id": "conv_a4f33030",
+  "userId": "demo-user",
+  "title": "在不在",
+  "summary": "在不在",
+  "messages": [
+    {
+      "id": "msg_e37cf60a",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_61250e6e",
+          "type": "text",
+          "text": "在不在"
+        }
+      ],
+      "createdAt": "2026-03-10T01:18:23.774Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_a55754c8",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_1401a2bd",
+          "type": "text",
+          "text": "在呀，我在。想从哪一步开始？如果你有一句想写的中文歌词、一个城市流行的氛围，或者想做偏女声的感觉，我可以马上陪你往下搭。"
+        }
+      ],
+      "createdAt": "2026-03-10T01:18:28.477Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_220be40a",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_94d6ca5c",
+          "type": "text",
+          "text": "写首歌吧"
+        }
+      ],
+      "createdAt": "2026-03-10T01:18:47.107Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_233dd671",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_cd3ed246",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Lyrics Skill",
+            "Music Prompt Skill"
+          ]
+        },
+        {
+          "id": "part_92a3765a",
+          "type": "text",
+          "text": "我先给你起了一版《在不在》，方向会靠近中文女声、带一点城市流行的夜色感，旋律上适合做得细腻又有记忆点。你先看看这版词和音乐方向顺不顺耳，如果你想，我下一步可以继续帮你把副歌再抓得更洗脑一点，或者把它改成更甜、更冷一点的版本。"
+        },
+        {
+          "id": "part_421bef17",
+          "type": "lyrics",
+          "title": "在不在",
+          "content": "霓虹刚好亮起来\n晚风把街景吹开\n你隔着人海没说话\n却让心跳乱了拍\n\n地铁开过第几站\n橱窗倒映着期待\n手机停在聊天框外\n打了又删的告白\n\n你在不在\n在我今晚的脑海\n路灯一盏一盏排开\n像没寄出的依赖\n你在不在\n在这座城市之外\n如果想念有形状\n一定是你留下的空白\n\n咖啡慢慢凉下来\n唱片转着旧节拍\n我们差一点的未来\n还在耳边轻轻摆\n\n天桥吹来的夜色\n把回忆染得太白\n我假装早已经释怀\n却还等一个重来\n\n你在不在\n在我今晚的脑海\n路灯一盏一盏排开\n像没寄出的依赖\n你在不在\n在这座城市之外\n如果想念有形状\n一定是你留下的空白\n\n你在不在\n在每个凌晨醒来\n窗外车流来得太快\n带不走我的徘徊\n你在不在\n在我没说的对白\n如果我们会重逢\n请你别让沉默掩埋\n\n你在不在\n你在不在\n我还站在原地等待",
+          "language": "Chinese",
+          "moodTags": [
+            "city pop"
+          ],
+          "versionId": "lyrics_7324608b"
+        },
+        {
+          "id": "part_97c1ff30",
+          "type": "prompt",
+          "title": "在不在",
+          "content": "Mandarin city pop with tender female vocals, wistful urban-night mood. Mid-tempo 102 BPM, groovy bass, clean electric guitar, shimmering synths, soft drums, subtle strings. Dreamy, nostalgic, polished 80s-inspired production with spacious reverb and intimate chorus lift.",
+          "styleTags": [
+            "city pop",
+            "female vocals"
+          ],
+          "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+          "versionId": "prompt_321d6e27"
+        }
+      ],
+      "createdAt": "2026-03-10T01:19:16.165Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_01e2078f",
+      "role": "user",
+      "parts": [
+        {
+          "id": "part_4b591607",
+          "type": "text",
+          "text": "基于最新歌词和 prompt 直接生成一版。"
+        }
+      ],
+      "createdAt": "2026-03-10T01:19:28.176Z",
+      "modelId": "gpt-5.4"
+    },
+    {
+      "id": "msg_6f7ae323",
+      "role": "assistant",
+      "parts": [
+        {
+          "id": "part_199f3b6f",
+          "type": "skills",
+          "title": "Skills used",
+          "items": [
+            "Generate Music Skill"
+          ]
+        },
+        {
+          "id": "part_52fe1860",
+          "type": "text",
+          "text": "好，我已经按你这版《在不在》的最新歌词和 prompt 先提交了一首候选，方向就贴着中文女声、城市流行的质感走。结果一出来我会继续在这里接住你；如果这版接近但还不够对味，我们再细调成更梦幻一点、更多夜色感，或者把副歌做得更抓耳。"
+        },
+        {
+          "id": "part_0a455fb3",
+          "type": "audio",
+          "title": "在不在",
+          "generationId": "gen_92bab9f2",
+          "status": "failed",
+          "provider": "duomi-suno",
+          "providerMode": "real",
+          "notes": "请求失败，API账户余额不足或没有权限",
+          "audioUrl": null,
+          "coverImageUrl": null
+        }
+      ],
+      "createdAt": "2026-03-10T01:19:32.671Z",
+      "modelId": "gpt-5.4"
+    }
+  ],
+  "lyricVersions": [
+    {
+      "title": "在不在",
+      "brief": "写首歌吧",
+      "content": "霓虹刚好亮起来\n晚风把街景吹开\n你隔着人海没说话\n却让心跳乱了拍\n\n地铁开过第几站\n橱窗倒映着期待\n手机停在聊天框外\n打了又删的告白\n\n你在不在\n在我今晚的脑海\n路灯一盏一盏排开\n像没寄出的依赖\n你在不在\n在这座城市之外\n如果想念有形状\n一定是你留下的空白\n\n咖啡慢慢凉下来\n唱片转着旧节拍\n我们差一点的未来\n还在耳边轻轻摆\n\n天桥吹来的夜色\n把回忆染得太白\n我假装早已经释怀\n却还等一个重来\n\n你在不在\n在我今晚的脑海\n路灯一盏一盏排开\n像没寄出的依赖\n你在不在\n在这座城市之外\n如果想念有形状\n一定是你留下的空白\n\n你在不在\n在每个凌晨醒来\n窗外车流来得太快\n带不走我的徘徊\n你在不在\n在我没说的对白\n如果我们会重逢\n请你别让沉默掩埋\n\n你在不在\n你在不在\n我还站在原地等待",
+      "language": "Chinese",
+      "moodTags": [
+        "city pop"
+      ],
+      "source": "mastra",
+      "id": "lyrics_7324608b",
+      "createdAt": "2026-03-10T01:19:05.786Z"
+    }
+  ],
+  "promptVersions": [
+    {
+      "title": "在不在",
+      "brief": "写首歌吧",
+      "content": "Mandarin city pop with tender female vocals, wistful urban-night mood. Mid-tempo 102 BPM, groovy bass, clean electric guitar, shimmering synths, soft drums, subtle strings. Dreamy, nostalgic, polished 80s-inspired production with spacious reverb and intimate chorus lift.",
+      "styleTags": [
+        "city pop",
+        "female vocals"
+      ],
+      "negativePrompt": "Avoid muddy low end and overcrowded percussion.",
+      "source": "mastra",
+      "id": "prompt_321d6e27",
+      "createdAt": "2026-03-10T01:19:09.944Z"
+    }
+  ],
+  "generations": [
+    {
+      "title": "在不在",
+      "promptVersionId": "prompt_321d6e27",
+      "lyricVersionId": "lyrics_7324608b",
+      "externalTaskIds": [],
+      "provider": "duomi-suno",
+      "providerMode": "real",
+      "status": "failed",
+      "audioUrl": null,
+      "coverImageUrl": null,
+      "notes": "请求失败，API账户余额不足或没有权限",
+      "requestSnapshot": {
+        "modelId": "gpt-5.4",
+        "prompt": "city pop, female vocals, Mandarin city pop with tender female vocals, wistful urban-night mood, Mid-tempo 102 BPM, groovy bass, clean electric guitar, shimmering synths, soft drums, subtle strings, Dreamy, nostalgic, polished 80s-inspired production with spaci",
+        "lyrics": "霓虹刚好亮起来\n晚风把街景吹开\n你隔着人海没说话\n却让心跳乱了拍\n\n地铁开过第几站\n橱窗倒映着期待\n手机停在聊天框外\n打了又删的告白\n\n你在不在\n在我今晚的脑海\n路灯一盏一盏排开\n像没寄出的依赖\n你在不在\n在这座城市之外\n如果想念有形状\n一定是你留下的空白\n\n咖啡慢慢凉下来\n唱片转着旧节拍\n我们差一点的未来\n还在耳边轻轻摆\n\n天桥吹来的夜色\n把回忆染得太白\n我假装早已经释怀\n却还等一个重来\n\n你在不在\n在我今晚的脑海\n路灯一盏一盏排开\n像没寄出的依赖\n你在不在\n在这座城市之外\n如果想念有形状\n一定是你留下的空白\n\n你在不在\n在每个凌晨醒来\n窗外车流来得太快\n带不走我的徘徊\n你在不在\n在我没说的对白\n如果我们会重逢\n请你别让沉默掩埋\n\n你在不在\n你在不在\n我还站在原地等待"
+      },
+      "id": "gen_92bab9f2",
+      "createdAt": "2026-03-10T01:19:28.390Z"
+    }
+  ],
+  "createdAt": "2026-03-10T01:18:21.271Z",
+  "updatedAt": "2026-03-10T01:19:32.671Z"
+}
